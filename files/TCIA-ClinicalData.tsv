@@ -1,0 +1,575 @@
+barcode	clinical_data_date_of_initial_pathologic_diagnosis	clinical_data_days_to_death	clinical_data_days_to_last_followup	clinical_data_days_to_last_known_alive	clinical_data_ethnicity	clinical_data_gender	clinical_data_karnofsky_performance_score	clinical_data_number_pack_years_smoked	clinical_data_pathologic_stage	clinical_data_pathology_M_stage	clinical_data_pathology_N_stage	clinical_data_pathology_T_stage	clinical_data_race	clinical_data_radiation_therapy	clinical_data_residual_tumor	clinical_data_tumor_tissue_site	clinical_data_vital_status	clinical_data_year_of_tobacco_smoking_onset	clinical_data_years_to_birth	datasource	disease	expData	ips_ctla4_neg_pd1_neg	ips_ctla4_neg_pd1_pos	ips_ctla4_pos_pd1_neg	ips_ctla4_pos_pd1_pos	patient_uuid
+TCGA-97-A4M6	2012	NA	568	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1a	white	no	NA	lung	0	NA	45	TCGA	LUAD	1	8	8	8	8	31ff69b5-9e58-44da-8326-bdfc7ee495c4
+TCGA-75-6214	NA	1115	NA	NA	NA	female	NA	40	stage iiia	m0	n2	t2	NA	no	r0	lung	1	1970	NA	TCGA	LUAD	1	8	8	8	7	32592562-11fa-435a-b40b-2b242bae53aa
+TCGA-L4-A4E5	2012	NA	578	NA	not hispanic or latino	female	NA	33	stage i	m0	n0	t1	white	no	r0	lung	0	1979	48	TCGA	LUAD	1	8	7	8	7	32a7b827-c3f9-4607-ae63-dae8caa2bc97
+TCGA-MP-A4T4	2004	2617	NA	NA	NA	female	NA	50	stage iib	m0	n1	t2	white	no	r0	lung	1	1954	68	TCGA	LUAD	1	8	9	8	9	301ca6e8-7981-4264-b4ae-38f56f7f9225
+TCGA-93-A4JP	2012	NA	578	NA	not hispanic or latino	male	NA	NA	stage iv	m1b	nx	tx	asian	no	rx	lung	0	NA	64	TCGA	LUAD	1	8	8	8	7	30f276a8-3a4b-4de8-aea0-7f605d100401
+TCGA-55-A48X	2012	NA	689	NA	not hispanic or latino	female	NA	36	stage iia	m0	n1	t1b	white	no	r0	lung	0	1963	63	TCGA	LUAD	1	9	9	9	9	32d9935a-f5cd-43b3-88bd-09e6e2b9090d
+TCGA-44-6774	2011	NA	658	NA	not hispanic or latino	female	NA	20	stage iiia	m0	n2	t1	white	yes	NA	lung	0	1971	56	TCGA	LUAD	1	7	6	6	6	33c71ead-4c2a-476d-85ef-885dbbfc2cbd
+TCGA-05-5423	2006	NA	151	NA	NA	male	NA	72	stage iib	m0	n1	t2	NA	NA	r0	lung	0	1956	65	TCGA	LUAD	1	8	7	8	7	33e3f736-7990-4f7a-ac35-863247566541
+TCGA-05-4244	2009	NA	0	NA	NA	male	NA	38	stage iv	m1	n2	t2	NA	NA	rx	lung	0	NA	70	TCGA	LUAD	1	8	7	7	7	34040b83-7e8a-4264-a551-b16621843e28
+TCGA-05-4382	2009	NA	607	NA	NA	male	NA	62	stage ib	m0	n0	t2	NA	yes	r0	lung	0	NA	68	TCGA	LUAD	1	7	7	6	6	3434b91a-c05f-460f-a078-7b1bb6e7085d
+TCGA-97-A4M2	2012	NA	624	NA	not hispanic or latino	male	NA	100	stage ia	m0	n0	t1a	white	no	r0	lung	0	1972	66	TCGA	LUAD	1	8	7	8	7	345aef28-d49b-491b-a337-b1ac55c37d35
+TCGA-44-6777	2006	987	NA	NA	NA	female	NA	64	stage ib	mx	nx	t2	white	yes	NA	lung	1	1942	85	TCGA	LUAD	1	7	7	6	6	349e6f38-2c67-4a69-a777-b9173a2a27cf
+TCGA-86-8055	2011	124	NA	NA	not hispanic or latino	male	80	60	stage iia	m0	n1	t2a	white	no	r0	lung	1	1955	79	TCGA	LUAD	1	7	7	7	6	34d8e84e-c3e1-417d-8b9b-8563d9fa0f8e
+TCGA-55-6982	2004	995	NA	NA	NA	female	NA	NA	stage iib	m0	n1	t2	white	no	NA	lung	1	NA	NA	TCGA	LUAD	1	8	7	8	7	35cb7841-9b09-465a-90c5-e3b8a9faad49
+TCGA-55-A4DF	2012	614	NA	NA	not hispanic or latino	male	NA	60	stage ia	mx	n0	t1b	white	no	r0	lung	1	NA	88	TCGA	LUAD	1	8	8	8	8	362000e4-cf7c-48fc-93cc-8f5994b442ea
+TCGA-55-8096	2011	719	NA	NA	not hispanic or latino	female	70	104	stage ib	mx	n0	t2a	white	no	NA	lung	1	1959	67	TCGA	LUAD	1	7	6	6	5	36470b30-a3b3-4d28-851b-918a7ff88011
+TCGA-50-5930	2001	282	NA	NA	not hispanic or latino	male	NA	NA	stage iiia	m0	n2	t2	white	yes	NA	lung	1	NA	47	TCGA	LUAD	1	8	7	8	7	368e23f0-e573-4547-bf5a-14080baf737b
+TCGA-J2-8192	2011	NA	739	NA	not hispanic or latino	female	NA	NA	stage iia	mx	n1	t2a	white	no	NA	lung	0	NA	65	TCGA	LUAD	1	7	6	7	6	369f14c4-2191-4962-a309-3e23ddc4e5fc
+TCGA-67-3774	2009	NA	385	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2	white	NA	rx	lung	0	NA	73	TCGA	LUAD	1	9	8	8	8	36ad7fc7-0cc1-4f01-aef1-f89b3cb4feac
+TCGA-05-4426	2008	NA	791	NA	NA	male	NA	20	stage ib	m0	n0	t2	NA	NA	r0	lung	0	NA	71	TCGA	LUAD	1	8	8	7	7	36bf02f8-c1c8-49f9-a417-adf88a205c70
+TCGA-17-Z037	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	175cb088-9b10-4fa9-95c0-7837fdc7bcf9
+TCGA-71-8520	2011	210	NA	NA	not hispanic or latino	female	40	NA	stage ib	m0	n0	t2	asian	yes	r0	lung	1	NA	60	TCGA	LUAD	1	8	7	8	7	37884d39-64e8-4242-b6bd-4c0a1daa21cd
+TCGA-97-7553	2007	NA	1870	NA	not hispanic or latino	female	NA	20	stage ia	mx	n0	t1	white	no	NA	lung	0	1967	58	TCGA	LUAD	1	7	7	7	7	37c8d73a-45ae-40fc-ba9a-721b755c1160
+TCGA-MP-A4TD	2008	307	NA	NA	NA	male	NA	20	stage iiia	m0	n2	t2	white	no	rx	lung	1	NA	71	TCGA	LUAD	1	8	7	8	6	383d1253-349f-43b3-bebd-9f1d1cf14b3d
+TCGA-95-A4VN	2012	NA	553	NA	not hispanic or latino	female	NA	42	stage iia	m0	n1	t2a	white	no	r0	lung	0	1965	62	TCGA	LUAD	1	7	8	7	8	389f78a3-fa0b-406c-9434-aa0298341a8c
+TCGA-97-8171	2011	NA	568	NA	not hispanic or latino	male	NA	65	stage iv	m1a	n2	t2a	asian	no	NA	lung	0	1946	81	TCGA	LUAD	1	10	8	9	7	397d3f69-1453-4057-b177-8723eec923d1
+TCGA-55-A492	2012	NA	596	NA	not hispanic or latino	female	80	35	stage ia	mx	n0	t1a	white	no	r0	lung	0	1962	70	TCGA	LUAD	1	9	7	8	6	39ab7174-5707-498d-9959-523680e04198
+TCGA-05-4430	2008	NA	761	NA	NA	female	NA	80	stage ib	m0	n0	t2	NA	NA	r0	lung	0	NA	59	TCGA	LUAD	1	8	7	7	7	3a23cdb5-2327-45ac-b0b5-d4afe038c757
+TCGA-49-AAR0	2002	NA	4765	NA	not hispanic or latino	male	80	37	stage ia	mx	n0	t1	black or african american	no	r0	lung	0	NA	57	TCGA	LUAD	1	8	7	8	7	3afa5045-a1ee-4a07-8aad-2e252b2f7d7a
+TCGA-55-A57B	2012	NA	546	NA	not hispanic or latino	female	90	NA	stage ia	m0	n0	t1b	black or african american	no	r0	lung	0	NA	80	TCGA	LUAD	1	8	7	8	7	3b21b982-dba2-45f4-ad8d-21dc86fcaaa7
+TCGA-L9-A443	2012	193	NA	NA	not hispanic or latino	female	NA	90	stage ia	mx	n0	t1a	white	no	r0	lung	1	1960	63	TCGA	LUAD	1	8	7	8	7	3b89ac82-63f6-41b9-a03d-34b9ffc1550d
+TCGA-95-7567	2011	NA	568	NA	not hispanic or latino	male	100	NA	stage iib	m0	n1	t2b	white	no	NA	lung	0	1970	61	TCGA	LUAD	1	8	7	8	7	3bc7026f-73f2-418b-bd62-f4768582b790
+TCGA-44-3396	2009	NA	1130	NA	not hispanic or latino	female	80	50	stage iiia	m0	n2	t2	white	no	r0	lung	0	1959	74	TCGA	LUAD	1	7	8	7	8	3bd6badb-27ff-4d8d-b206-4d28dc264862
+TCGA-44-6775	2011	NA	705	NA	hispanic or latino	female	100	25	stage ib	mx	n0	t2a	white	no	rx	lung	0	1955	72	TCGA	LUAD	1	7	6	7	6	3c4ff061-d214-4d1c-8d2e-3034f207c252
+TCGA-05-4420	2008	NA	912	NA	NA	male	NA	38	stage ib	m0	n0	t2	NA	no	r0	lung	0	NA	41	TCGA	LUAD	1	7	6	7	5	3d2aa654-1b5f-4eb4-a1c2-af31f5760069
+TCGA-93-A4JO	2012	33	NA	NA	not hispanic or latino	male	90	50	stage ia	mx	n0	t1a	white	no	rx	lung	1	1956	70	TCGA	LUAD	1	8	7	7	7	3daebe75-c6df-478e-8a4c-11186fd5ead9
+TCGA-69-7974	2011	NA	184	NA	not hispanic or latino	female	80	30	stage iiia	mx	n2	t2a	white	yes	NA	lung	0	1981	54	TCGA	LUAD	1	7	7	6	7	3e1df30f-744a-41e9-a169-7dbbff66622e
+TCGA-55-A4DG	2012	NA	608	NA	not hispanic or latino	male	NA	100	stage ia	mx	n0	t1b	white	no	r0	lung	0	NA	71	TCGA	LUAD	1	9	8	9	8	3e34c7d9-90fa-41e2-ba6b-4bbc332adc4e
+TCGA-67-4679	2009	NA	448	NA	not hispanic or latino	male	NA	NA	NA	m0	n0	t3	white	NA	r0	lung	0	NA	69	TCGA	LUAD	1	8	7	8	7	3e635902-5310-4406-8b4d-a238ce382639
+TCGA-55-8506	2012	NA	11	NA	not hispanic or latino	female	NA	NA	stage iib	mx	n0	t3	white	NA	r0	lung	0	1972	62	TCGA	LUAD	1	7	6	7	6	3ed05070-6633-4de5-9f72-090f93aa2e4d
+TCGA-05-5428	2010	NA	670	NA	NA	male	NA	30	stage iia	m0	n1	t1b	NA	yes	r0	lung	0	1969	57	TCGA	LUAD	1	6	5	6	5	3fe8f8e4-5396-4362-82f5-366e2fb69db2
+TCGA-44-7672	2010	NA	719	NA	not hispanic or latino	female	NA	20	stage ia	m0	n0	t1b	white	no	NA	lung	0	1980	52	TCGA	LUAD	1	8	8	8	8	4036c6fc-c82e-47bb-a384-6f299dc30b52
+TCGA-64-5781	2007	NA	1559	NA	not hispanic or latino	female	NA	25	stage ib	m0	n0	t2	white	no	r0	lung	0	1982	55	TCGA	LUAD	1	9	9	9	9	41c4c704-825e-49f5-9d54-dbd7d30725e0
+TCGA-NJ-A4YP	2011	NA	50	NA	not hispanic or latino	male	NA	60	stage ib	m0	n0	t2a	white	no	NA	lung	0	NA	52	TCGA	LUAD	1	8	7	8	7	42259aa6-c9f5-4309-a956-dbf930312f44
+TCGA-O1-A52J	2007	1798	NA	NA	not hispanic or latino	female	NA	45	stage ia	mx	n0	t1	white	no	NA	lung	1	1950	74	TCGA	LUAD	1	9	8	8	8	42432463-8e92-4f25-b72a-f03953527aa5
+TCGA-44-2656	2009	NA	1429	NA	not hispanic or latino	male	NA	23	stage ib	m0	n0	t2	white	no	NA	lung	0	1994	59	TCGA	LUAD	1	8	9	8	9	42ca54fc-c1ae-41cd-bca1-7fe9810db460
+TCGA-53-7813	2008	NA	424	NA	not hispanic or latino	female	NA	35	stage iiib	m0	n0	t4	white	no	NA	lung	0	1973	51	TCGA	LUAD	1	9	7	9	7	42d208bd-cd77-4bfb-ad53-9fc072a87393
+TCGA-62-8402	2008	1498	NA	NA	not hispanic or latino	female	100	NA	stage iiia	m0	n2	t2	white	no	r0	lung	1	NA	73	TCGA	LUAD	1	9	9	9	9	433a32d0-93d1-4897-8e36-beb1ec1d998e
+TCGA-78-7633	2009	1528	NA	NA	NA	male	NA	94	stage ib	m0	n0	t2	white	NA	r0	lung	1	1955	67	TCGA	LUAD	1	8	7	8	6	44218b35-219c-4ad9-a01e-fde14067c4c0
+TCGA-35-4122	2010	NA	225	NA	not hispanic or latino	male	80	45	stage ia	m0	n0	t1	white	NA	r0	lung	0	1965	69	TCGA	LUAD	1	7	8	7	8	44adf4cb-2829-4153-80fd-a8b7ee0e654a
+TCGA-69-8253	2012	NA	426	NA	not hispanic or latino	female	NA	7.8	stage iia	mx	n1	t1a	black or african american	no	NA	lung	0	1972	59	TCGA	LUAD	1	8	7	8	6	44d8c859-4b7a-4e9d-bffc-0de0e6afdcc4
+TCGA-05-4422	2008	NA	365	NA	NA	male	NA	147	stage ib	m0	n0	t2	NA	NA	r0	lung	0	NA	68	TCGA	LUAD	1	10	10	10	10	44dec838-b653-42a7-a58b-a1fd232cd68c
+TCGA-78-7535	2000	949	NA	NA	NA	male	NA	35	stage ib	m0	n0	t2	white	no	r0	lung	1	1972	45	TCGA	LUAD	1	7	5	6	5	46592b7b-6968-42a6-83af-0917c9f4a9a5
+TCGA-86-8358	2012	NA	653	NA	not hispanic or latino	male	100	20	stage ib	m0	n0	t2a	white	no	r0	lung	0	1992	44	TCGA	LUAD	1	8	7	8	7	467d96d7-4a42-4116-8c32-0e4b34f96d8a
+TCGA-MP-A4T7	2005	167	NA	NA	NA	female	NA	50	stage iv	m1	n0	t2	NA	no	r0	lung	1	1954	75	TCGA	LUAD	1	8	6	7	6	47062ad2-ba82-45c8-a871-bdea84f0c405
+TCGA-86-8056	2011	NA	139	NA	not hispanic or latino	female	100	36	stage iiia	m0	n0	t4	white	NA	r0	lung	0	1963	63	TCGA	LUAD	1	7	6	7	6	472337c2-a2fc-403a-8c17-69511193128b
+TCGA-55-6642	2006	NA	2449	NA	NA	male	NA	NA	stage ib	mx	n0	t2	white	no	r0	lung	0	1961	63	TCGA	LUAD	1	8	7	8	7	474b86d9-d897-467d-85d4-51dfa26ea107
+TCGA-49-AAR9	1999	260	NA	NA	not hispanic or latino	male	80	NA	stage iib	mx	n0	t3	black or african american	no	r0	lung	1	NA	61	TCGA	LUAD	1	8	7	8	6	47b749e6-e060-4aa1-8f29-976e489ba789
+TCGA-86-8074	2011	NA	24	NA	not hispanic or latino	female	80	40	stage iia	m0	n1	t1b	white	NA	r0	lung	0	1970	62	TCGA	LUAD	1	8	7	7	7	482eb2a7-6fed-4e4c-b1b6-14d6d869f855
+TCGA-17-Z009	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	3136b041-24b9-42c5-b4a8-70f04c63a177
+TCGA-17-Z058	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	3650e5b2-ef58-4b14-97b2-8698f2c160f8
+TCGA-17-Z056	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	392ca7f3-d52e-4aa7-a9ba-4c7d9aa6401c
+TCGA-17-Z027	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	4432a02d-91de-4a7d-875f-684865f3c95d
+TCGA-17-Z016	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	494d50b6-578e-441b-8195-4b4d26c0d810
+TCGA-17-Z005	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	4b5ff30e-65fc-4434-b174-9d699594c658
+TCGA-75-7027	NA	NA	3059	NA	NA	male	NA	50	stage ib	m0	n0	t2	NA	no	r0	lung	0	1956	NA	TCGA	LUAD	1	8	6	7	6	488646a1-0bdb-45f8-8c30-bef006924511
+TCGA-50-8460	2012	NA	829	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t1a	white	yes	r0	lung	0	NA	74	TCGA	LUAD	1	9	8	9	8	497cc506-03fe-4ffa-860b-5a12adb1bc7d
+TCGA-L9-A444	2012	NA	307	NA	not hispanic or latino	female	NA	10	stage ia	mx	n0	t1a	white	no	r0	lung	0	1972	60	TCGA	LUAD	1	9	9	9	9	4a1d30e8-e93a-41ed-8e54-08eaff6556a7
+TCGA-91-8497	2012	434	NA	NA	not hispanic or latino	female	NA	NA	stage ia	mx	n0	t1a	white	no	NA	lung	1	NA	75	TCGA	LUAD	1	9	8	9	8	4ad63dac-76a7-4527-abce-d7a0184e8739
+TCGA-05-4249	2007	NA	1523	NA	NA	male	NA	52	stage ib	m0	n0	t2	NA	no	r0	lung	0	NA	67	TCGA	LUAD	1	7	6	7	6	4addf05f-3668-4b3f-a17f-c0227329ca52
+TCGA-44-7669	2010	574	NA	NA	not hispanic or latino	male	NA	20	stage iia	mx	n1	t1b	black or african american	no	NA	lung	1	1970	59	TCGA	LUAD	1	7	7	7	7	4b22ad71-c585-4077-ad3c-c6e026d0c7fa
+TCGA-71-6725	2011	NA	256	NA	not hispanic or latino	female	60	NA	stage ib	m0	n0	t2	asian	no	rx	lung	0	NA	48	TCGA	LUAD	1	9	7	8	6	4b7cd595-e7f9-45a8-b736-a8c7c42d9539
+TCGA-55-8092	2012	154	NA	NA	not hispanic or latino	male	NA	40	stage iib	mx	n0	t3	white	no	r0	lung	1	1972	75	TCGA	LUAD	1	10	10	10	10	4b92fce2-3772-40eb-ab34-a27937b58590
+TCGA-73-4666	2009	NA	800	NA	not hispanic or latino	female	80	10	stage iv	m1	n0	t1	white	yes	r0	lung	0	1982	52	TCGA	LUAD	1	7	8	7	8	4c31127e-d095-4978-9dac-35153c27f6ed
+TCGA-49-6761	2009	NA	354	NA	not hispanic or latino	female	NA	50	stage iiia	mx	n2	t1	white	no	r0	lung	0	NA	68	TCGA	LUAD	1	7	7	7	7	4cd3d483-2283-4c6a-a57a-444216119d34
+TCGA-55-1596	2004	NA	2065	NA	not hispanic or latino	male	NA	50	stage iib	m0	n1	t2	asian	no	r0	lung	0	1979	55	TCGA	LUAD	1	10	8	9	8	199386c2-bb53-4fad-a1b6-59ab216a4a50
+TCGA-64-1680	2007	NA	1126	NA	not hispanic or latino	male	NA	50	stage iv	m1	n2	t2a	white	yes	r0	lung	0	1962	63	TCGA	LUAD	1	10	8	9	8	1ab7ad70-0f80-41d8-8efa-3baebc8223cc
+TCGA-86-7955	2011	NA	1072	NA	not hispanic or latino	male	100	NA	stage ib	m0	n0	t2a	white	yes	rx	lung	0	NA	62	TCGA	LUAD	1	7	5	6	5	0d0d83d9-d558-4d38-977b-6f1b2471beda
+TCGA-50-6597	2007	1268	NA	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	79	TCGA	LUAD	1	10	9	9	9	0d66bf6c-eed0-4726-bd5b-3bf6d610b4e0
+TCGA-91-A4BD	2012	NA	603	NA	not hispanic or latino	male	NA	NA	stage iia	mx	n1	t1b	white	no	rx	lung	0	NA	78	TCGA	LUAD	1	8	7	8	7	0d980584-4484-4063-8243-c3cd67f6f588
+TCGA-67-3771	2009	NA	610	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1	black or african american	NA	r0	lung	0	NA	77	TCGA	LUAD	1	7	6	7	6	0df573ee-28f0-4244-b434-09e6ca59fbf0
+TCGA-38-4625	2002	NA	2973	NA	not hispanic or latino	female	NA	50	stage ib	m0	n0	t2a	white	no	r0	lung	0	1952	66	TCGA	LUAD	1	8	9	8	8	0ea4920f-f4c8-4590-84b3-eb419824e144
+TCGA-97-7552	2007	NA	1932	NA	not hispanic or latino	male	NA	40	stage ib	mx	n0	t2	white	no	NA	lung	0	NA	70	TCGA	LUAD	1	9	9	9	9	1b110eb4-a01d-4c50-ba18-77da4dedd549
+TCGA-69-7763	2010	NA	690	NA	not hispanic or latino	male	NA	7.5	stage ia	m0	n0	t1b	white	no	NA	lung	0	1959	69	TCGA	LUAD	1	8	7	8	6	1b31cdb3-1837-49d6-a857-1830f8800299
+TCGA-73-4670	2010	NA	131	NA	not hispanic or latino	female	50	30	stage iv	m1	n0	t2	white	no	r0	lung	0	1979	69	TCGA	LUAD	1	7	6	7	6	1b354837-4925-4480-ac32-6b44d0957314
+TCGA-50-5944	2010	NA	1750	NA	NA	female	NA	NA	stage ia	m0	n0	t1	white	no	r0	lung	0	NA	69	TCGA	LUAD	1	9	7	8	7	1c339545-c08a-4a77-b8e9-a7e49e53853f
+TCGA-64-5779	2009	NA	864	NA	not hispanic or latino	male	NA	40	stage iiia	m0	n2	t2	white	yes	r0	lung	0	1969	61	TCGA	LUAD	1	8	7	8	7	1c58d9b8-17a2-4fc6-9898-fe6f47bd2c2a
+TCGA-86-8054	2011	NA	1148	NA	not hispanic or latino	male	80	9	stage iib	m0	n1	t2b	white	no	r0	lung	0	1994	61	TCGA	LUAD	1	7	5	6	5	0fe909ea-d52c-4b71-816f-57f62d4a5744
+TCGA-50-5935	2006	653	NA	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1	white	yes	NA	lung	1	NA	86	TCGA	LUAD	1	9	8	9	8	100430c8-1446-45c8-af36-b6dbb3ddd0c1
+TCGA-67-3776	2009	NA	61	579	not hispanic or latino	female	NA	NA	stage iib	m0	n1	t2	white	NA	r0	lung	0	NA	57	TCGA	LUAD	0	NA	NA	NA	NA	102fba48-b23a-46d4-8371-71c11c1a6654
+TCGA-55-8089	2011	702	NA	NA	not hispanic or latino	male	100	97	stage ia	m0	n0	t1a	white	no	r0	lung	1	1973	56	TCGA	LUAD	1	7	8	8	8	1070ff27-17c9-43dd-a4f6-daa643eb9123
+TCGA-75-5146	NA	NA	2368	NA	NA	male	NA	NA	stage ib	m0	n0	t2	NA	no	r0	lung	0	NA	NA	TCGA	LUAD	1	9	7	8	7	1d276b62-5e64-48fb-b2ce-5192b511fe37
+TCGA-97-7546	2008	NA	1285	NA	not hispanic or latino	female	NA	25	stage ia	mx	n0	t1	white	yes	r0	lung	0	1963	76	TCGA	LUAD	1	8	8	8	7	1d90c9f3-5025-4867-a2f0-e455b6a254fa
+TCGA-55-7911	2011	NA	537	NA	not hispanic or latino	female	NA	96	stage ia	mx	n0	t1a	white	no	r0	lung	0	1959	70	TCGA	LUAD	1	8	8	8	8	1f0a5312-0590-4230-9da9-fd0cfe693586
+TCGA-55-8511	2012	NA	552	NA	not hispanic or latino	female	70	58	stage ib	mx	n0	t2a	white	no	r0	lung	0	1953	73	TCGA	LUAD	1	8	8	8	8	1f1df7ea-00b9-4432-86de-da773d1451e5
+TCGA-67-6217	2010	NA	422	NA	not hispanic or latino	female	NA	NA	stage iia	m0	n1	t2a	white	no	r0	lung	0	NA	73	TCGA	LUAD	1	10	9	10	9	108a71cf-b9db-47cd-aa74-c03ec989b41b
+TCGA-50-6590	2005	1288	NA	NA	not hispanic or latino	female	NA	50	stage ib	m0	n0	t2	white	no	NA	lung	1	NA	72	TCGA	LUAD	1	7	8	7	8	114a34c0-983b-4d90-9181-1823c9637a63
+TCGA-97-8179	2012	NA	435	NA	not hispanic or latino	male	NA	60	stage ia	m0	n0	t1a	white	no	NA	lung	0	1958	72	TCGA	LUAD	1	8	7	8	6	11c2e619-8aeb-4f86-b03b-78f9a8099263
+TCGA-44-5644	2010	NA	863	NA	not hispanic or latino	female	NA	17.5	stage ib	NA	n0	t2a	white	no	NA	lung	0	1975	51	TCGA	LUAD	1	7	5	6	5	1fc81cd4-fa89-4135-8c3c-027ffae82b05
+TCGA-55-8512	2012	607	NA	NA	not hispanic or latino	male	90	19	stage iv	m1b	n1	t1a	white	no	r0	lung	1	1989	41	TCGA	LUAD	1	8	6	7	6	202e5df9-69f2-432c-a59d-cc5aa176e973
+TCGA-75-5125	NA	2027	NA	NA	NA	male	NA	25	stage iib	m0	n1	t2	NA	no	r0	lung	1	NA	NA	TCGA	LUAD	1	6	8	6	8	205759a6-6391-491b-9857-0080c3a5871e
+TCGA-38-4626	2003	NA	3674	NA	not hispanic or latino	female	NA	40	NA	m0	n0	t2b	white	no	r0	lung	0	1962	57	TCGA	LUAD	1	7	6	6	6	2079155a-d91d-4246-a038-01934a580f32
+TCGA-38-4629	2003	864	NA	NA	not hispanic or latino	male	NA	100	stage iib	m0	n0	t3	white	no	r0	lung	1	NA	68	TCGA	LUAD	1	7	8	7	7	127bf818-f7e5-46b5-a9de-39f6d96b8b83
+TCGA-50-5939	2008	460	NA	NA	not hispanic or latino	male	NA	15	stage ib	m0	n0	t2	white	no	NA	lung	1	NA	85	TCGA	LUAD	1	8	8	8	7	12b79b4f-c28c-418e-a1e7-e622f33fdcc2
+TCGA-55-A48Y	2012	NA	630	NA	not hispanic or latino	male	NA	50	stage iia	m0	n0	t2b	white	no	r0	lung	0	1962	69	TCGA	LUAD	1	7	6	7	6	12c07138-e3fa-418a-89e3-628da12bc99e
+TCGA-97-8176	2012	468	NA	NA	not hispanic or latino	male	NA	40	stage iiia	m0	n1	t3	white	yes	r0	lung	1	1971	63	TCGA	LUAD	1	7	6	7	5	12c27db5-db2f-48dc-a2ca-9557b951f43e
+TCGA-50-5931	2001	434	NA	NA	not hispanic or latino	female	NA	40	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	75	TCGA	LUAD	1	8	6	7	5	12ccd581-a921-41bc-bcee-4e9be54532cc
+TCGA-49-6742	2010	488	NA	NA	not hispanic or latino	male	40	10	stage iia	m0	n1	t2a	white	no	r0	lung	1	NA	70	TCGA	LUAD	1	10	8	9	7	21fb46f9-4bbb-441c-af19-a687e9138344
+TCGA-44-6144	2011	NA	723	9	not hispanic or latino	male	70	67.5	stage ia	m0	n0	t1a	white	no	rx	lung	0	1968	58	TCGA	LUAD	0	NA	NA	NA	NA	22302e92-fdfa-462a-9249-efdaa26ee5ed
+TCGA-75-6212	NA	1516	NA	NA	NA	female	NA	NA	stage iib	m0	n1	t2	NA	no	r0	lung	1	NA	NA	TCGA	LUAD	1	9	8	9	8	23069f19-eba5-4ea5-ae7d-1ee4399ce7c1
+TCGA-44-8119	2012	NA	285	NA	not hispanic or latino	male	NA	50	stage iib	m0	n0	t3	white	no	NA	lung	0	1961	73	TCGA	LUAD	1	6	6	6	6	230dc42d-681c-4e31-9d2e-c724e61829fb
+TCGA-69-7764	2010	NA	414	NA	not hispanic or latino	male	NA	30	stage ia	m0	n0	t1b	white	no	NA	lung	0	1977	75	TCGA	LUAD	1	9	8	9	8	243c6fd6-5516-46e5-bcef-292d93d7b7d3
+TCGA-38-4631	1997	354	NA	NA	not hispanic or latino	female	NA	40	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	72	TCGA	LUAD	1	9	7	8	7	2483621a-4db3-41ab-aa33-b9427ea8a0af
+TCGA-17-Z053	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	2dca3588-51e1-48f7-8c9b-7b7e53c3fb33
+TCGA-17-Z007	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	3037e91e-213e-43e3-92e4-2fcd68988bde
+TCGA-62-A471	2010	NA	1246	NA	not hispanic or latino	male	100	30	stage iib	m0	n1	t2b	white	no	r0	lung	0	NA	64	TCGA	LUAD	1	8	7	8	6	0075437e-ba1a-46be-86d6-9773209a2b5e
+TCGA-67-3773	2009	NA	427	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2	white	NA	r0	lung	0	NA	84	TCGA	LUAD	1	9	9	9	8	009be09b-f9f6-43b7-8f45-4a648f8123ce
+TCGA-17-Z060	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	257c9416-e86a-4c71-9dee-7212c2e56351
+TCGA-38-A44F	2012	NA	133	NA	not hispanic or latino	male	NA	12	stage ib	m0	n0	t2a	white	no	r0	lung	0	1965	80	TCGA	LUAD	1	9	8	9	8	258a3a41-211b-4c66-bd3b-ef03014a6967
+TCGA-83-5908	2009	NA	824	NA	not hispanic or latino	female	90	69	stage ia	m0	n0	t1	white	no	r0	lung	0	1962	59	TCGA	LUAD	1	8	9	8	9	25d4ea9e-f773-4f11-bac9-64efdad73211
+TCGA-L4-A4E6	2012	NA	435	NA	not hispanic or latino	male	NA	30	stage ia	m0	n0	t1	white	no	r0	lung	0	1954	67	TCGA	LUAD	1	7	7	7	7	26a92e1b-08d8-45cd-af0c-eaf2514808a2
+TCGA-17-Z055	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	07119baf-64a7-454c-b1b0-c769b506a63d
+TCGA-17-Z004	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	0d96def2-cf0a-4659-94e5-f08744c57cc6
+TCGA-44-5643	2010	NA	1013	NA	not hispanic or latino	male	NA	20	stage iiia	m0	n2	t2b	black or african american	yes	NA	lung	0	NA	53	TCGA	LUAD	1	8	7	8	7	27fceec1-3298-4cdd-a4e6-8f5cf34604f0
+TCGA-86-8279	2011	NA	949	NA	not hispanic or latino	male	90	NA	stage iia	m0	n1	t2a	white	yes	r0	lung	0	NA	46	TCGA	LUAD	1	7	5	7	5	2923e404-38f2-437a-b57e-23401fbe0273
+TCGA-55-7724	2011	NA	705	NA	not hispanic or latino	female	NA	50	stage ib	mx	n0	t2a	white	no	r0	lung	0	1958	76	TCGA	LUAD	1	7	6	7	6	294cb595-0907-44c7-bbef-985a27c1e6e2
+TCGA-73-4662	2007	NA	2515	NA	not hispanic or latino	female	100	10	stage ia	m0	n0	t1	white	no	r0	lung	0	1955	65	TCGA	LUAD	1	8	8	8	8	294ff941-aea1-4588-9a0e-e9f5393e2bb6
+TCGA-73-A9RS	2013	340	NA	NA	not hispanic or latino	male	80	11	stage iib	m0	n0	t3	black or african american	yes	r0	lung	1	1990	41	TCGA	LUAD	1	8	8	8	7	2a394996-809f-459f-a647-d209921ccbd2
+TCGA-L9-A5IP	2012	58	NA	NA	not hispanic or latino	female	NA	NA	stage iv	m1b	n2	t3	black or african american	no	r1	lung	1	NA	40	TCGA	LUAD	1	8	7	7	7	2a43e61e-2151-4c5a-b062-74ce9dfd8d4a
+TCGA-J2-8194	2011	NA	724	NA	not hispanic or latino	female	NA	20	stage iib	mx	n0	t3	white	yes	NA	lung	0	1956	69	TCGA	LUAD	1	7	6	6	5	2b68b51f-bd4c-4bbb-b4e6-2eead53da2a4
+TCGA-NJ-A4YI	2009	4	NA	NA	NA	female	NA	3	stage iiia	m0	n2	t2	white	no	NA	lung	1	1936	87	TCGA	LUAD	1	7	6	6	6	2c03141e-a0bd-4e8d-91e4-9744d139ccce
+TCGA-55-8299	2012	469	NA	NA	not hispanic or latino	female	NA	20	stage ia	mx	n0	t1b	white	no	r0	lung	1	1971	61	TCGA	LUAD	1	7	8	7	8	2cd8ea73-cb3f-4b17-9b97-fa12eb03b85b
+TCGA-75-6211	NA	NA	NA	NA	NA	female	NA	34	stage ib	m0	n0	t2	NA	no	r0	lung	1	NA	NA	TCGA	LUAD	1	7	6	7	5	2db08267-d346-4d42-aac0-b76831903253
+TCGA-78-7149	2002	NA	3940	NA	NA	male	NA	115	stage iiib	m0	n0	t4	white	no	r0	lung	0	1950	71	TCGA	LUAD	1	9	7	8	6	2de1ba51-eae1-4a54-b7cd-d6d739fdc39d
+TCGA-17-Z050	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	19ca36e6-2154-4224-89b1-117a4a4407f6
+TCGA-55-6987	2006	NA	2137	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t1	white	no	NA	lung	0	NA	77	TCGA	LUAD	1	7	8	8	8	2efc156c-464a-4c2f-a854-39fefe32081c
+TCGA-55-6980	2006	NA	2109	NA	NA	male	NA	NA	stage ia	m0	n0	t1	white	no	r0	lung	0	NA	NA	TCGA	LUAD	1	9	8	9	8	2f0710f4-827b-45b2-9b7e-c27385b481a7
+TCGA-91-6835	2010	NA	79	NA	not hispanic or latino	female	NA	25	stage ia	m0	n0	t1	white	no	r0	lung	0	NA	81	TCGA	LUAD	1	7	8	7	8	2f09479f-87fc-4c34-8e2c-333e970a3681
+TCGA-86-8585	2012	NA	353	NA	not hispanic or latino	male	NA	NA	stage ib	m0	n0	t2a	white	no	r0	lung	0	NA	57	TCGA	LUAD	1	7	7	7	7	2f1a4b16-104c-40eb-8114-8245847bb716
+TCGA-62-8398	2007	444	NA	NA	not hispanic or latino	male	100	20	stage iiia	m0	n2	t2	white	no	r0	lung	1	1970	55	TCGA	LUAD	1	8	7	7	7	2fabeb98-05e3-4f55-97f5-fbc675e25a3d
+TCGA-NJ-A7XG	2013	NA	617	NA	not hispanic or latino	male	NA	NA	stage iiia	m0	n1	t4	black or african american	no	NA	lung	0	NA	49	TCGA	LUAD	1	9	7	9	7	01e9888d-b5b9-48f1-8ba6-8a89af108a04
+TCGA-91-6848	2009	NA	224	NA	not hispanic or latino	male	NA	NA	stage iiia	mx	n2	t2	white	no	NA	lung	0	NA	59	TCGA	LUAD	1	7	7	7	7	0232d299-4cdf-4fd7-9a5e-8d13c208b40c
+TCGA-55-6986	2004	NA	3261	NA	NA	female	NA	NA	stage ib	m0	n0	t2	white	no	NA	lung	0	NA	NA	TCGA	LUAD	1	8	7	7	6	028e99e9-5b9a-4954-bb6e-6d4709a3cea8
+TCGA-S2-AA1A	2013	NA	513	NA	not hispanic or latino	female	NA	95	stage ia	m0	n0	t1b	black or african american	no	r0	lung	0	1957	68	TCGA	LUAD	1	9	8	9	8	31458638-e19c-43e5-ab13-9c64b3b3681d
+TCGA-50-5066	2009	NA	1442	NA	not hispanic or latino	male	NA	NA	stage ib	m0	n0	t2	black or african american	no	r0	lung	0	NA	72	TCGA	LUAD	1	8	8	8	8	3199cfe5-3be3-43cd-a36b-5cf2c7a9929f
+TCGA-05-4398	2006	NA	1431	NA	NA	female	NA	72	stage iiib	m0	n3	t4	NA	no	r0	lung	0	NA	47	TCGA	LUAD	1	6	7	6	7	31c96e35-5e2f-429c-b12a-7bc5a497a300
+TCGA-86-6851	2011	NA	179	NA	not hispanic or latino	female	100	52	stage iia	m0	n1	t1b	white	no	NA	lung	0	1959	73	TCGA	LUAD	1	9	9	9	9	035c0b2b-c722-443b-8962-db4ee92c7532
+TCGA-73-4677	2010	38	NA	NA	not hispanic or latino	male	80	NA	NA	m0	n0	t2a	white	no	r0	lung	1	NA	74	TCGA	LUAD	1	9	8	8	7	03c3409a-9d16-41d0-9e26-f9fc2547a4c8
+TCGA-05-4245	2009	NA	730	NA	NA	male	NA	32	stage iiia	m0	n2	t2	NA	no	r2	lung	0	NA	81	TCGA	LUAD	0	NA	NA	NA	NA	03d09c05-49ab-4ba6-a8d7-e7ccf71fafd2
+TCGA-78-7540	1999	1197	NA	NA	NA	female	NA	NA	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	66	TCGA	LUAD	1	9	8	8	7	05534064-8b43-4c82-95da-70fd83bd6560
+TCGA-55-7576	2011	NA	670	NA	not hispanic or latino	male	NA	NA	stage ib	m0	n0	t2a	black or african american	no	r0	lung	0	1972	54	TCGA	LUAD	1	8	7	8	7	055e9a43-3c00-4110-a303-e4407676bec0
+TCGA-55-8615	2012	NA	446	NA	not hispanic or latino	male	NA	67	stage iiia	mx	n2	t3	white	no	r0	lung	0	1966	67	TCGA	LUAD	1	7	5	6	4	06fe7f3e-4edd-4150-981c-93787ea19b39
+TCGA-49-4501	1996	1421	NA	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	67	TCGA	LUAD	1	9	8	9	8	0780eb43-d5b5-4c3d-9825-beacba5cc723
+TCGA-86-7954	2011	NA	605	NA	not hispanic or latino	female	100	8	stage ib	m0	n0	t2	white	no	r0	lung	0	1963	68	TCGA	LUAD	1	8	8	8	7	079ae0b3-b64b-4b8e-ab7d-225b8046568c
+TCGA-44-2655	2009	NA	1324	575	not hispanic or latino	female	NA	30	stage ia	m0	n0	t1	white	no	r0	lung	0	1958	65	TCGA	LUAD	1	9	8	9	8	07b5663f-9a54-4462-b6c1-6fc8116b8714
+TCGA-49-4505	1996	428	NA	NA	not hispanic or latino	female	80	74	stage iib	m0	n1	t2	white	no	r0	lung	1	1949	61	TCGA	LUAD	1	9	8	8	8	088edf89-d2b5-40c7-b066-df3bd383f7ea
+TCGA-97-8177	2012	NA	499	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2a	white	no	NA	lung	0	NA	59	TCGA	LUAD	1	8	7	8	7	09078761-1c14-4d01-8e15-535c19a9b0f9
+TCGA-J2-A4AD	2012	550	NA	NA	not hispanic or latino	female	NA	120	stage ia	mx	n0	t1a	white	no	rx	lung	1	1970	61	TCGA	LUAD	1	8	7	8	6	096bd95f-9900-4db2-b1c4-103902c3b31f
+TCGA-50-6592	2007	777	NA	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2	white	yes	NA	lung	1	NA	71	TCGA	LUAD	1	7	7	7	7	09918b81-4696-4cba-a45a-5fe7407c2337
+TCGA-55-6968	2004	1293	NA	NA	not hispanic or latino	male	NA	NA	stage iv	m1	n0	t1	white	yes	NA	lung	1	NA	61	TCGA	LUAD	1	7	7	7	7	83a6ed20-b3cf-48b9-8ed3-a080cd4951fa
+TCGA-44-8120	2011	NA	260	NA	not hispanic or latino	male	NA	30	stage ib	m0	n0	t2a	black or african american	no	NA	lung	0	1981	58	TCGA	LUAD	1	7	6	7	6	83e38dbd-edab-47f2-b19f-6ea38fc6bece
+TCGA-MP-A5C7	2008	NA	2248	NA	not hispanic or latino	female	NA	15	stage ib	m0	n0	t2	white	no	r0	lung	0	1953	76	TCGA	LUAD	1	8	6	7	5	8f04660a-2efb-4947-9eab-375066b9eb33
+TCGA-MP-A4TJ	2006	339	NA	NA	NA	female	NA	NA	stage ia	m0	n0	t1	NA	no	r0	lung	1	NA	62	TCGA	LUAD	1	8	8	8	9	8f52cccd-5709-4753-9670-31a573ee27ab
+TCGA-91-6829	2001	1258	NA	NA	not hispanic or latino	male	0	94.5	stage ib	mx	n0	t2	white	no	r0	lung	1	1940	78	TCGA	LUAD	1	7	6	7	6	1427cd18-5ad3-491a-9981-908e31ae49db
+TCGA-64-5778	2008	NA	1305	NA	not hispanic or latino	male	0	68	stage ib	m0	n0	t2	white	no	r0	lung	0	1966	60	TCGA	LUAD	1	10	10	10	10	8fdbd88f-19ae-4ab8-bcd7-6bfa1bbde742
+TCGA-99-8025	2010	NA	1060	NA	not hispanic or latino	female	NA	20	stage iiia	m0	n2	t3	black or african american	no	r0	lung	0	1958	72	TCGA	LUAD	1	8	7	8	6	84c3ba70-afa7-4b69-be69-7ec8d6022c56
+TCGA-50-6594	2009	370	NA	NA	not hispanic or latino	female	NA	NA	stage iiia	m0	n2	t3	black or african american	no	NA	lung	1	NA	79	TCGA	LUAD	1	7	9	7	8	8504fd86-a70a-4cba-9ec8-25c9e60ca549
+TCGA-44-A479	2012	NA	486	NA	not hispanic or latino	female	NA	40	stage ib	mx	n0	t2	black or african american	no	r0	lung	0	1962	73	TCGA	LUAD	1	7	7	7	8	851867cb-9ad0-4fdf-ac75-9bb0427ad440
+TCGA-86-8674	2012	NA	806	NA	not hispanic or latino	male	NA	37.5	stage iia	m0	n1	t2a	white	no	r0	lung	0	1982	50	TCGA	LUAD	1	8	6	7	6	0a1eea76-e19a-4547-9b24-abf7051cc4db
+TCGA-50-5068	2003	1499	NA	NA	not hispanic or latino	female	NA	NA	stage iib	mx	n1	t2	white	no	NA	lung	1	NA	59	TCGA	LUAD	1	9	8	9	8	591c068f-bbb1-4df2-9abb-d1a2e4a58372
+TCGA-MP-A4T8	2006	161	NA	NA	NA	male	NA	25	stage iiia	m0	n2	t2	NA	no	r0	lung	1	1957	68	TCGA	LUAD	1	7	6	7	5	7c4ed533-ee66-48be-a84b-ff8607742818
+TCGA-97-8547	2012	NA	657	NA	NA	female	NA	NA	stage iiia	mx	n2	t2a	NA	no	NA	lung	0	NA	78	TCGA	LUAD	1	7	6	7	6	ac0d7a82-82cb-4aec-b859-e37375f3de8b
+TCGA-73-4658	2004	1600	NA	NA	not hispanic or latino	female	NA	25	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	80	TCGA	LUAD	1	7	7	7	7	afb91740-2668-46d7-ba01-bb26153ad1c7
+TCGA-86-8076	2011	NA	993	NA	not hispanic or latino	male	100	NA	stage ia	m0	n0	t1	white	no	r0	lung	0	NA	42	TCGA	LUAD	1	9	8	9	8	8609edfc-119d-4d63-9188-c86aabd5ca52
+TCGA-49-6744	2010	NA	1683	NA	NA	female	90	20	stage iia	mx	n1	t2a	white	no	r0	lung	0	NA	64	TCGA	LUAD	1	8	8	8	7	15340dd3-84ae-49fb-989a-eb212f3e73da
+TCGA-50-5072	2009	250	NA	NA	not hispanic or latino	male	NA	15	stage iiia	m0	n2	t2	white	yes	NA	lung	1	NA	74	TCGA	LUAD	1	8	7	7	6	1575148b-0f63-44ee-86fd-93ae1a02be0b
+TCGA-MP-A4SW	2002	1778	NA	NA	NA	male	NA	15	stage iib	m0	n1	t2	white	no	r0	lung	1	1967	53	TCGA	LUAD	1	9	8	8	7	15f12d2c-b834-4bfc-b526-f03bf85bfe96
+TCGA-78-7162	1991	3169	NA	NA	NA	male	NA	12	stage ia	m0	n0	t1	white	no	r0	lung	1	1940	75	TCGA	LUAD	1	9	8	9	8	16cd58db-d52c-403e-9e9c-6da2e99f6bad
+TCGA-55-A48Z	2012	NA	651	NA	not hispanic or latino	female	70	40	stage iiib	mx	n3	t1a	white	yes	r0	lung	0	1972	60	TCGA	LUAD	1	8	8	8	7	16d3c1c1-cf3a-44b6-b564-8ae5464b243d
+TCGA-78-8662	2000	3361	NA	NA	NA	female	NA	45	stage ib	m0	n0	t2	NA	no	r0	lung	1	1964	53	TCGA	LUAD	1	7	5	6	5	16e64a1e-08b0-4c27-8c69-fa64551f8ca4
+TCGA-55-7726	2011	NA	652	NA	not hispanic or latino	female	NA	30	stage ia	mx	n0	t1b	white	no	r0	lung	0	1955	72	TCGA	LUAD	1	7	6	7	6	923b37e4-fcf7-46a0-8cb2-9139711fec7b
+TCGA-62-8397	2008	NA	1289	NA	not hispanic or latino	female	90	NA	stage iib	m0	n0	t3	white	no	r0	lung	0	NA	70	TCGA	LUAD	1	10	9	9	8	9240d5fc-de23-4436-8099-da9bd3054860
+TCGA-L9-A8F4	2013	NA	476	NA	not hispanic or latino	female	NA	14	stage ib	mx	n0	t2a	black or african american	yes	r0	lung	0	1973	64	TCGA	LUAD	1	7	7	7	7	927fc5e0-2c14-4c20-a49b-f10d8a1175c3
+TCGA-MP-A4TF	2010	336	NA	NA	not hispanic or latino	female	NA	40	stage iia	m0	n0	t2b	white	no	r0	lung	1	1970	58	TCGA	LUAD	1	8	8	8	8	86dac334-f30e-438e-810a-8e45f69dbb7e
+TCGA-78-7161	2011	291	NA	NA	NA	female	NA	27.8	stage iib	m0	n0	t3	white	no	r1	lung	1	1961	69	TCGA	LUAD	1	8	6	8	6	86faf16c-56fd-4b7b-a6b2-b4c83bec93e1
+TCGA-55-6981	2005	1379	NA	NA	not hispanic or latino	female	NA	NA	stage iiia	m0	n2	t1	white	yes	r0	lung	1	NA	53	TCGA	LUAD	1	7	6	7	6	0a45f302-5748-48f3-9dc9-66c01843a68e
+TCGA-55-7284	2011	243	NA	NA	not hispanic or latino	male	NA	NA	stage iib	mx	n0	t3	white	no	r0	lung	1	NA	74	TCGA	LUAD	1	9	8	8	8	0b15fcb8-1fb7-497e-80b9-d3db66a3c0a2
+TCGA-38-4632	1998	1357	NA	NA	not hispanic or latino	male	NA	10	stage iv	m1	n1	t2	black or african american	no	r0	lung	1	NA	42	TCGA	LUAD	1	7	7	7	7	875333ab-9048-462d-aaa2-693ad127e3cc
+TCGA-75-5126	NA	NA	NA	NA	NA	female	NA	40	stage iiia	m0	n2	t3	NA	no	r2	lung	0	NA	NA	TCGA	LUAD	1	7	8	7	7	93766482-2f20-4c8f-bbd8-bdd203c37d5a
+TCGA-44-2664	2009	NA	1251	NA	not hispanic or latino	female	NA	23	stage ia	m0	n0	t1	black or african american	no	r0	lung	0	1964	66	TCGA	LUAD	0	NA	NA	NA	NA	93b62fc5-a0d3-4d32-bf27-cd7c9d43cd5f
+TCGA-95-8039	2012	NA	830	NA	not hispanic or latino	male	NA	NA	stage ia	mx	n0	t1	white	no	rx	lung	0	NA	72	TCGA	LUAD	1	9	8	8	8	87f1b3df-4bc7-4336-b658-f30ac1c5c796
+TCGA-86-8075	2011	694	NA	NA	not hispanic or latino	female	90	NA	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	66	TCGA	LUAD	1	7	6	7	6	8869000d-09d7-465a-ac32-54d1935c43e7
+TCGA-44-6147	2010	NA	845	NA	not hispanic or latino	female	80	NA	stage ia	m0	nx	t1b	white	no	NA	lung	0	1976	67	TCGA	LUAD	1	8	7	8	7	889aec8e-14ba-48d9-8fe1-f2416e82b333
+TCGA-MN-A4N5	2011	NA	84	NA	not hispanic or latino	male	100	NA	stage ia	m0	n0	t1a	white	no	r0	lung	0	1971	63	TCGA	LUAD	1	9	9	9	9	17e09b0d-eab2-40ec-ae3c-be9ab63fcef0
+TCGA-78-8640	1994	NA	7062	NA	NA	male	NA	45	stage iia	m0	n1	t1	NA	no	r0	lung	0	1949	59	TCGA	LUAD	1	8	7	7	6	18478121-f1d1-4bdd-9511-8ab22f4a0660
+TCGA-17-Z041	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	94ee639e-3cb4-4943-b5f1-a89eb902153c
+TCGA-91-6828	2011	NA	323	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t1a	white	no	r0	lung	0	NA	70	TCGA	LUAD	1	7	7	7	7	9536e32d-2707-48d2-a36d-08c521665bb9
+TCGA-91-6849	2009	NA	35	NA	not hispanic or latino	female	90	30	stage iiia	mx	n2	t2	black or african american	NA	NA	lung	0	1946	75	TCGA	LUAD	1	8	6	7	6	953a908d-0993-42f6-853b-512611d19a2c
+TCGA-99-8033	2011	656	NA	NA	not hispanic or latino	female	NA	NA	stage iv	m1	nx	tx	white	yes	r0	lung	1	NA	74	TCGA	LUAD	1	8	8	8	8	9582b436-145b-4f84-8f7f-8b39b8254cc1
+TCGA-55-8205	2012	NA	599	NA	not hispanic or latino	female	100	30	stage iia	m0	n0	t2b	white	no	r0	lung	0	1951	76	TCGA	LUAD	1	7	8	7	8	95fa64b0-91e1-4427-b81a-53c47a053563
+TCGA-91-6836	2010	NA	417	NA	not hispanic or latino	female	NA	50	stage ib	mx	n0	t2	white	no	NA	lung	0	1973	52	TCGA	LUAD	1	7	7	7	6	0b31dbdf-0623-48e4-a0ec-017650dceda7
+TCGA-44-6146	2010	NA	728	NA	not hispanic or latino	male	NA	15	stage iib	m0	n0	t3	white	no	NA	lung	0	NA	64	TCGA	LUAD	1	9	8	9	7	0c0b610e-fe4c-406d-a5ed-5cc3b11dabf5
+TCGA-62-A46P	2006	594	NA	NA	not hispanic or latino	male	100	40	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	65	TCGA	LUAD	1	8	7	8	6	0c59ff96-5e4a-4664-a0b1-d057b4725483
+TCGA-55-8510	2012	NA	539	NA	not hispanic or latino	female	NA	NA	stage ib	mx	n0	t2a	white	no	r0	lung	0	NA	55	TCGA	LUAD	1	8	8	8	8	962fd4e7-9199-43d9-abce-e3dfa46da62c
+TCGA-55-7574	2011	995	NA	NA	not hispanic or latino	female	50	2	stage ib	m0	n0	t2a	white	yes	r1	lung	1	1971	64	TCGA	LUAD	1	8	8	9	8	a7911bdc-13f1-434a-bfa3-f8ba55d15846
+TCGA-95-7562	2011	87	NA	NA	not hispanic or latino	male	NA	10	stage iia	m0	n1	t2a	black or african american	no	rx	lung	1	1973	71	TCGA	LUAD	1	8	7	7	7	193201a3-1447-47b1-bdf1-11ae0eb3b2f3
+TCGA-73-4676	2010	281	NA	NA	not hispanic or latino	male	90	48	stage iia	m0	n1	t2a	white	yes	r0	lung	1	1977	45	TCGA	LUAD	1	7	7	7	6	195a5afb-b79f-44d2-9d12-884487630c2b
+TCGA-L9-A50W	2012	442	NA	NA	not hispanic or latino	male	NA	19	stage iia	mx	n1	t1b	black or african american	no	r0	lung	1	1967	75	TCGA	LUAD	1	10	8	9	8	a815619f-dbba-469f-a1f7-dfbd51cd86c5
+TCGA-86-8278	2011	NA	944	NA	not hispanic or latino	female	90	NA	stage iib	m0	n1	t2	white	no	r0	lung	0	NA	63	TCGA	LUAD	1	8	7	7	6	a816e355-be6f-4d16-b051-b6d86ed8cded
+TCGA-44-A47B	2012	NA	287	NA	not hispanic or latino	male	NA	4.5	stage ib	m0	n0	t2a	white	no	r0	lung	0	1956	79	TCGA	LUAD	1	7	6	7	6	967d6548-5a84-4b7e-bc3f-2e522859fce6
+TCGA-99-7458	2010	NA	747	NA	not hispanic or latino	female	90	52	stage iiia	m0	n0	t4	white	no	r0	lung	0	1958	74	TCGA	LUAD	1	8	8	8	8	96d93e23-bb0d-46a8-9685-5ed0d6b83059
+TCGA-49-AAQV	2012	677	NA	NA	not hispanic or latino	female	90	NA	stage ii	mx	n1	t1	black or african american	no	r0	lung	1	NA	63	TCGA	LUAD	1	8	8	8	7	96dfa373-4597-49a5-942e-d9b4dc5d28fc
+TCGA-99-8028	2011	NA	1118	NA	not hispanic or latino	female	NA	30	stage ia	m0	n0	t1a	black or african american	no	r0	lung	0	1981	50	TCGA	LUAD	1	8	8	8	9	9759bf3a-74ff-433f-99bb-f9406f222ed2
+TCGA-91-6847	2002	NA	842	NA	not hispanic or latino	female	NA	NA	stage ib	mx	n0	t2	white	yes	NA	lung	0	NA	62	TCGA	LUAD	1	7	6	6	5	97831d28-ab41-4c18-bfc2-c4c6bc757d13
+TCGA-75-6203	NA	NA	NA	NA	NA	female	NA	NA	stage iiia	m0	n2	t2	NA	no	r0	lung	0	NA	NA	TCGA	LUAD	1	8	7	8	7	a8d6694c-a213-4544-ac0b-63bce16d8f4e
+TCGA-55-8614	2011	NA	536	NA	not hispanic or latino	male	NA	40	stage ib	mx	n0	t2a	white	no	r0	lung	0	NA	76	TCGA	LUAD	1	8	7	8	7	a8de1beb-6296-44eb-bd63-c603f70faaf3
+TCGA-17-Z051	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	a8f3da11-890c-4fff-bfc5-d99357dc4e46
+TCGA-78-8655	2003	NA	2360	NA	NA	female	NA	10	stage ia	m0	n0	t1	NA	no	r0	lung	0	1981	77	TCGA	LUAD	1	8	7	7	7	a905d275-9283-4fa6-bbbf-46019bd1bcb7
+TCGA-97-7554	2010	NA	775	NA	not hispanic or latino	female	NA	30	stage iiia	m0	n2	t2a	white	no	r0	lung	0	1945	83	TCGA	LUAD	1	8	8	8	8	a9644274-13bb-4228-9b4f-14260ccc26eb
+TCGA-MP-A4TA	2006	950	NA	NA	not hispanic or latino	female	NA	55	stage ia	m0	n0	t1	white	no	r0	lung	1	1951	75	TCGA	LUAD	1	8	7	8	7	98ee294a-46ed-4572-bdd4-a932c3498a25
+TCGA-49-AARN	2000	1135	NA	NA	not hispanic or latino	female	90	NA	stage ia	mx	n0	t1	black or african american	no	r0	lung	1	NA	56	TCGA	LUAD	1	9	8	8	7	98ef41fa-3015-445a-bbdc-984361c911f7
+TCGA-50-5049	2006	NA	3094	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t2	white	yes	NA	lung	0	NA	70	TCGA	LUAD	1	8	8	8	8	9944f46f-9fa8-4e2c-a806-776bec7f8803
+TCGA-55-5899	2010	NA	930	NA	not hispanic or latino	male	100	NA	NA	m0	n1	t1a	white	no	r0	lung	0	1985	NA	TCGA	LUAD	1	8	7	8	7	996a0070-e9bf-4601-8ef7-60212108258d
+TCGA-MP-A4TC	2008	74	NA	NA	not hispanic or latino	male	NA	125	stage iiia	m0	n2	t1	white	no	r0	lung	1	1944	77	TCGA	LUAD	1	7	7	7	7	99c35245-e1c8-4805-b7a5-f703bb506030
+TCGA-49-AARQ	1996	NA	6732	NA	not hispanic or latino	female	90	60	stage i	mx	n0	t2	black or african american	no	r0	lung	0	NA	41	TCGA	LUAD	1	8	7	8	7	9a2a226e-9605-4214-9320-469305e664e6
+TCGA-05-4384	2009	NA	426	NA	NA	male	NA	20	stage iiia	m0	n2	t2	NA	yes	rx	lung	0	1963	66	TCGA	LUAD	1	7	6	7	5	9a50e7e4-831d-489f-87d2-979e987561cc
+TCGA-75-6205	NA	NA	NA	NA	NA	female	NA	NA	stage ib	m0	n0	t2a	NA	no	r0	lung	1	NA	NA	TCGA	LUAD	1	7	8	7	8	9a63f744-4ed4-4b4d-aac6-f9bda66aa563
+TCGA-55-8203	2011	NA	547	NA	not hispanic or latino	female	NA	50	stage ia	m0	n0	t1b	white	no	r0	lung	0	NA	69	TCGA	LUAD	1	8	7	8	7	9a9bd705-1ef1-4a6c-bb1e-bdd346dc01c0
+TCGA-50-6591	2007	119	NA	NA	not hispanic or latino	female	NA	NA	stage iv	m1	n0	t2	white	no	NA	lung	1	NA	63	TCGA	LUAD	1	8	6	7	5	9b132e4f-7e35-4cc5-8711-43ad62b906d0
+TCGA-44-7670	2010	NA	882	NA	hispanic or latino	female	NA	30	stage iia	m0	n1	t1b	white	no	NA	lung	0	1980	47	TCGA	LUAD	1	8	7	8	7	9b38eded-3f46-4aaa-9991-68008d97bdbe
+TCGA-05-5425	2009	NA	882	NA	NA	male	NA	40	stage iib	m0	n1	t2b	NA	yes	r0	lung	0	1965	68	TCGA	LUAD	1	9	9	9	9	9b4eeecb-6aff-435b-a244-ec362af92b7f
+TCGA-17-Z015	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	9b714a42-62e8-4b33-947e-6c4850725afd
+TCGA-49-AARR	2001	NA	4992	NA	not hispanic or latino	male	80	NA	stage ia	mx	n0	t1	black or african american	no	r0	lung	0	NA	68	TCGA	LUAD	1	8	8	8	7	9b93a7c5-f9b4-4461-8078-0201a725c9cf
+TCGA-50-6673	2004	22	NA	NA	NA	female	NA	NA	stage i	m0	n0	t1	white	yes	r0	lung	1	NA	84	TCGA	LUAD	1	8	7	8	6	ab8d7f84-dd71-42c7-9471-4db967a9c89c
+TCGA-44-7662	2011	NA	218	NA	not hispanic or latino	male	NA	50	stage ib	mx	n0	t2a	white	no	NA	lung	0	1961	61	TCGA	LUAD	1	7	7	7	7	ab9e6815-4d13-44db-93e5-553eb4f5bc95
+TCGA-95-7944	2011	NA	377	NA	not hispanic or latino	male	NA	50	stage ia	m0	n0	t1a	white	no	r0	lung	0	1961	71	TCGA	LUAD	1	8	9	8	9	abab925c-bef3-4072-b9c4-40f808744593
+TCGA-17-Z025	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	abb86d09-d4ff-41f4-ba22-185dc48347c9
+TCGA-55-7995	2012	NA	889	NA	not hispanic or latino	female	80	60	stage ia	m0	n0	t1b	white	no	r0	lung	0	NA	73	TCGA	LUAD	1	6	7	6	7	abd6647b-d2eb-404d-8283-443e92addf55
+TCGA-17-Z047	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	abf6eb5f-fa06-4032-8cff-c8522b0a3c9a
+TCGA-64-1681	2008	1167	NA	NA	not hispanic or latino	female	0	NA	stage ia	m0	n0	t1	white	no	r0	lung	1	1968	61	TCGA	LUAD	1	9	8	9	8	c583fdd1-8cd2-4c15-a23e-0644261f65da
+TCGA-95-7043	2011	503	NA	NA	not hispanic or latino	female	NA	40	stage ia	mx	n0	t1a	white	no	NA	lung	1	1964	63	TCGA	LUAD	1	7	5	6	5	c650b1ff-8a4c-4ee9-b7c1-268c28c83827
+TCGA-97-A4M7	2012	NA	629	NA	not hispanic or latino	male	NA	40	stage ia	m0	n0	t1b	white	no	r0	lung	0	1958	74	TCGA	LUAD	1	9	8	9	8	c6b680e3-d96e-4fc7-8053-77454b7a14fa
+TCGA-49-4494	1995	1081	NA	NA	not hispanic or latino	male	90	50	stage iiia	m0	n2	t3	white	NA	r0	lung	1	1930	77	TCGA	LUAD	1	9	8	8	8	c6d78e27-e510-4f57-abae-19efa6105a8d
+TCGA-49-6745	2011	NA	522	NA	NA	male	NA	20	stage iiia	m0	n2	t2a	white	no	NA	lung	0	NA	82	TCGA	LUAD	1	7	8	7	8	9c7875ad-ab71-4d48-b2e3-e4c7a46393e9
+TCGA-86-7711	2011	1046	NA	NA	hispanic or latino	male	100	50	stage iia	m0	n1	t2a	white	no	r0	lung	1	1960	70	TCGA	LUAD	1	6	6	6	5	9c894668-88f5-4308-a1c0-6b8acc6aaaec
+TCGA-97-8552	2012	NA	626	NA	not hispanic or latino	female	NA	NA	stage i	mx	n0	t1a	white	no	NA	lung	0	NA	55	TCGA	LUAD	1	8	6	7	6	9ca1a26c-82e0-48b3-b3bb-2ed57086eeb1
+TCGA-50-8459	2012	NA	1119	NA	not hispanic or latino	male	NA	10	stage iib	m0	n0	t3	white	no	NA	lung	0	NA	68	TCGA	LUAD	1	8	7	7	7	9cfc1519-33e7-4145-a4ad-78b5c449853a
+TCGA-55-6712	2010	171	NA	NA	NA	male	NA	NA	stage iia	mx	n1	t2a	white	no	r1	lung	1	1970	NA	TCGA	LUAD	1	9	9	8	9	f17d3463-af6c-42c2-a8e9-fae45f69286f
+TCGA-38-4630	2000	1073	NA	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2	white	no	r1	lung	1	NA	75	TCGA	LUAD	1	7	6	7	6	f1985735-a188-4567-a88a-530f9b80291b
+TCGA-4B-A93V	2013	300	NA	NA	not hispanic or latino	female	0	30	stage ia	m0	n0	t1b	black or african american	yes	r0	lung	1	1984	52	TCGA	LUAD	1	7	7	6	7	f1f80dd2-891d-46dd-a3e0-f007628cb515
+TCGA-17-Z062	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	f29b5aef-d53e-457d-b140-b0b5fd1960bc
+TCGA-17-Z014	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	c05b1a5c-2f6d-448a-94c8-58cce3d34b37
+TCGA-97-A4M1	2012	NA	601	NA	not hispanic or latino	female	NA	3	stage ia	m0	n0	t1a	white	no	NA	lung	0	1972	52	TCGA	LUAD	1	9	8	9	7	c0c879f7-c332-4d31-9f7e-a3bf361b36ee
+TCGA-86-8672	2012	19	NA	NA	not hispanic or latino	male	NA	NA	stage iib	m0	n0	t3	white	no	r0	lung	1	NA	59	TCGA	LUAD	1	8	8	8	8	c0e263eb-1a83-4dc8-8abe-3dd2a59bae1b
+TCGA-91-7771	2011	NA	492	NA	not hispanic or latino	male	NA	75	stage iib	mx	n0	t3	white	no	NA	lung	0	NA	62	TCGA	LUAD	1	8	8	8	8	c0fdb152-25d2-404b-bec7-a43ece381f5b
+TCGA-78-7160	2008	697	NA	NA	NA	male	NA	43.8	stage iv	m1	n2	t4	white	no	r0	lung	1	1963	61	TCGA	LUAD	1	8	7	8	7	c1a01e8c-1f7e-4e24-bfad-90b73f88e992
+TCGA-86-8280	2011	NA	701	NA	not hispanic or latino	female	100	NA	stage iia	m0	n0	t2b	white	no	r0	lung	0	NA	54	TCGA	LUAD	1	9	9	9	9	d8faa3a7-6b3f-4e69-8c88-184e41055bd7
+TCGA-05-4434	2008	457	NA	NA	NA	female	NA	15	stage iv	m1	n1	t4	NA	NA	r2	lung	1	NA	67	TCGA	LUAD	1	7	8	7	8	d94fe32f-bedd-4f4c-9feb-fcb60d40f4bb
+TCGA-86-8668	2012	NA	423	NA	not hispanic or latino	female	100	NA	stage ia	m0	n0	t1b	white	no	r0	lung	0	NA	61	TCGA	LUAD	1	8	8	8	7	f2d8b332-2f03-46e5-a9d5-f163972e5fa7
+TCGA-MP-A4TI	2010	429	NA	NA	not hispanic or latino	male	NA	35	stage iia	m0	n1	t2a	white	NA	r0	lung	1	1955	72	TCGA	LUAD	1	7	8	7	8	f327dea0-2d30-482f-809c-76a148a749b7
+TCGA-44-2661	2009	NA	1159	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1	white	no	r0	lung	0	NA	69	TCGA	LUAD	1	8	8	9	8	f3501466-cf32-4866-b5fb-e94dd32341bc
+TCGA-50-5941	2010	NA	1474	NA	NA	female	NA	25	stage iiia	m0	n2	t2a	white	no	NA	lung	0	NA	55	TCGA	LUAD	1	8	9	8	9	f3f024c2-52f1-400e-946c-398f5b72e6dc
+TCGA-44-2657	2009	NA	1351	NA	not hispanic or latino	female	NA	25	stage ib	m0	nx	t2	white	no	r0	lung	0	1959	74	TCGA	LUAD	1	9	9	9	9	f40301ba-831e-4afd-9ce8-5f3c1a05ff7e
+TCGA-97-8175	2011	NA	551	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2a	white	no	NA	lung	0	NA	55	TCGA	LUAD	1	8	7	8	7	f4350d9c-3f40-4829-bbc4-8acb2f3ff512
+TCGA-44-6776	2005	NA	2616	NA	NA	female	NA	45	stage ia	mx	n0	t1	white	no	NA	lung	0	1960	60	TCGA	LUAD	1	8	7	8	6	c2a1de2e-6451-4c95-8ce6-263f2b7e6eff
+TCGA-78-7153	2003	NA	3635	NA	NA	female	NA	20	stage ib	m0	n0	t2	white	no	r0	lung	0	1948	65	TCGA	LUAD	1	10	8	9	7	c353f949-5f66-4a2c-b8f0-17be8bf19e0a
+TCGA-17-Z003	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	c390b6ad-14c8-49ea-9b38-798c9fad5b62
+TCGA-44-A47G	2012	NA	351	NA	not hispanic or latino	female	NA	28	stage ia	m0	n0	t1	white	no	r0	lung	0	1956	73	TCGA	LUAD	1	8	9	8	9	da345947-498b-4272-a231-a987ed4fe151
+TCGA-78-7536	2001	244	NA	NA	NA	male	NA	44	stage iiia	m0	n2	t2	white	yes	r0	lung	1	1949	69	TCGA	LUAD	1	6	6	6	5	daf0e08e-1738-43f8-874a-b37d79cbe3a7
+TCGA-91-6831	2001	NA	310	NA	not hispanic or latino	male	NA	NA	stage ib	mx	n0	t2	white	no	NA	lung	0	NA	66	TCGA	LUAD	1	6	6	6	6	db0b9e63-4272-4f29-bf0e-1ec0fe79a9d7
+TCGA-55-7728	2011	NA	704	NA	not hispanic or latino	female	NA	30	stage ib	mx	n0	t2a	white	no	r0	lung	0	1980	64	TCGA	LUAD	1	8	7	7	7	db769d5c-a794-448d-9130-38a82d051c95
+TCGA-69-7978	2011	NA	134	NA	not hispanic or latino	male	NA	80	stage iib	mx	n1	t2b	white	no	NA	lung	0	NA	59	TCGA	LUAD	1	6	8	6	8	f462cfef-f60a-4d3e-b92d-b8d8f50b6bb3
+TCGA-17-Z061	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	f4b83449-7d0e-49f3-be53-81cf0d485ed8
+TCGA-05-4405	2006	NA	610	NA	NA	female	NA	65	stage ib	m0	n0	t2	NA	no	r0	lung	0	1951	74	TCGA	LUAD	1	7	6	7	6	f587c9ab-2949-4410-80d6-a050865d48aa
+TCGA-55-8505	2012	NA	440	NA	not hispanic or latino	male	NA	NA	stage iiia	mx	n2	t1a	white	no	r0	lung	0	NA	62	TCGA	LUAD	1	8	6	7	5	f59e5a76-f803-470b-910c-a897a149d939
+TCGA-44-A47F	2012	NA	337	NA	not hispanic or latino	male	90	20	stage iib	m0	n1	t2b	white	no	NA	lung	0	1955	74	TCGA	LUAD	0	NA	NA	NA	NA	f61d599a-43bd-4743-9568-678317e75955
+TCGA-17-Z031	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	c43c8eea-7014-4abe-b805-397a9062d3e0
+TCGA-62-A46R	2006	1725	NA	NA	not hispanic or latino	female	100	25	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	54	TCGA	LUAD	1	8	7	8	8	c497f8c7-2fb5-44d9-bc7c-69cfd0b51b54
+TCGA-75-6206	NA	NA	2590	NA	NA	male	NA	20	stage ib	m0	n0	t2	NA	no	r0	lung	0	NA	NA	TCGA	LUAD	1	7	6	7	6	c4c1469d-752f-42b6-8686-714ad4a8ac97
+TCGA-86-8671	2012	NA	839	NA	not hispanic or latino	female	100	NA	stage iib	m0	n1	t2b	white	no	r0	lung	0	NA	72	TCGA	LUAD	1	8	9	8	9	c4cfa3cc-e305-42dd-be57-97efbb891659
+TCGA-55-6972	2005	1632	NA	NA	not hispanic or latino	male	NA	NA	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	72	TCGA	LUAD	1	8	6	7	6	c4d1e105-28b7-48df-abef-fbe09782fdb2
+TCGA-67-6215	2010	NA	174	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2a	white	no	r0	lung	0	NA	52	TCGA	LUAD	1	8	7	7	6	dbd5b0de-94c9-45dd-afb3-6820a7ecaca2
+TCGA-69-7973	2011	NA	230	NA	not hispanic or latino	female	NA	25	stage ib	m0	n0	t2a	white	no	NA	lung	0	NA	42	TCGA	LUAD	1	7	6	7	6	dc9eaaa0-0bfd-46d0-994f-310826879da4
+TCGA-86-6562	2011	376	NA	NA	not hispanic or latino	male	0	NA	stage iia	m0	n1	t2a	white	no	r0	lung	1	NA	52	TCGA	LUAD	1	8	7	7	6	dcd066ba-5894-453e-b1da-82092858c3db
+TCGA-17-Z011	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	dcf8e752-e95c-4087-a0f5-c041787c8569
+TCGA-49-6767	2010	NA	677	NA	NA	female	NA	30	stage iib	mx	n0	t3	white	NA	r0	lung	0	NA	46	TCGA	LUAD	1	7	7	7	7	6bffe800-ec2b-4638-9333-97fe85dcd91c
+TCGA-49-4510	2001	896	NA	NA	not hispanic or latino	female	80	55.5	stage iib	m0	n1	t2	black or african american	yes	r0	lung	1	NA	51	TCGA	LUAD	1	9	7	8	7	f77b6930-a1ce-446e-a15d-c018cbbecfee
+TCGA-64-1678	2006	NA	1189	NA	not hispanic or latino	female	NA	20	NA	m0	n0	t2b	white	no	r0	lung	0	1970	70	TCGA	LUAD	1	7	5	7	5	f77cf4d3-9829-4fd3-95a1-b29aed9e94b8
+TCGA-MP-A4TK	2002	582	NA	NA	NA	female	NA	28	stage iib	mx	n1	t2	NA	no	r0	lung	1	1971	56	TCGA	LUAD	1	7	6	7	6	f7f9f522-de88-4f9c-8ba4-7be3726faaf8
+TCGA-55-7815	2011	NA	773	NA	NA	male	NA	NA	stage ib	mx	n0	t2a	NA	no	r0	lung	0	NA	76	TCGA	LUAD	1	7	6	6	6	dd46c83e-6551-485b-b935-f3beed891244
+TCGA-97-A4M0	2012	NA	652	NA	not hispanic or latino	female	NA	34	stage ib	m0	n0	t2a	white	no	NA	lung	0	1970	60	TCGA	LUAD	1	9	9	9	9	dd63d0fd-e24b-40a5-88c5-7d3d4106631e
+TCGA-44-5645	2010	NA	852	NA	not hispanic or latino	female	NA	5	stage ia	NA	nx	t1	black or african american	no	NA	lung	0	1963	61	TCGA	LUAD	1	8	7	8	7	ddeacccf-0953-4952-8a4e-c2617f2e7bcc
+TCGA-62-A46V	2007	NA	2199	NA	not hispanic or latino	female	90	NA	stage ib	m0	n0	t2	white	no	r0	lung	0	NA	78	TCGA	LUAD	1	7	5	7	5	f809e21d-5f2e-4f3b-a1aa-d6b8d463552a
+TCGA-49-AAR2	2009	NA	2224	NA	not hispanic or latino	male	90	NA	stage ib	mx	n0	t2	black or african american	no	r0	lung	0	NA	64	TCGA	LUAD	1	9	8	9	8	f809e7d9-a75e-41c9-ac2c-5bec6ffcb4a2
+TCGA-17-Z043	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	f86e1da7-bad6-4eb8-ae4c-fa9421308d47
+TCGA-49-4490	1993	385	NA	NA	not hispanic or latino	female	NA	5	stage iiia	m0	n2	t3	white	yes	NA	lung	1	NA	45	TCGA	LUAD	1	8	7	9	7	6c3655ca-8ae7-4ad7-b3e4-0c3ec293fba7
+TCGA-35-4123	2010	NA	182	NA	not hispanic or latino	male	90	20	stage ia	m0	n0	t1	white	NA	r0	lung	0	1990	38	TCGA	LUAD	1	7	8	7	8	6cf49cf0-de4c-4c90-8358-eae19c6206b0
+TCGA-55-1594	2005	NA	1178	1178	not hispanic or latino	male	NA	NA	stage iiia	m0	n2	t2	white	NA	r0	lung	0	1965	68	TCGA	LUAD	1	7	6	7	6	6d72de06-232a-4983-a06c-eba6d82cb3f1
+TCGA-44-8117	2011	NA	385	NA	not hispanic or latino	female	NA	54	stage ib	m0	n0	t2a	white	no	NA	lung	0	1975	54	TCGA	LUAD	1	6	6	6	5	6d96a298-be5a-4e14-afe8-ca4b6ca298d6
+TCGA-05-4397	2006	731	NA	NA	NA	male	NA	45	stage iib	m0	n1	t2	NA	NA	r0	lung	1	NA	65	TCGA	LUAD	1	9	8	9	8	6dfd47d2-831a-4386-9051-f78199a16bb5
+TCGA-44-3918	2010	NA	1036	197	not hispanic or latino	female	90	20	stage ia	m0	n0	t1	white	no	r0	lung	0	1974	60	TCGA	LUAD	1	7	8	7	8	6e3b6b72-142d-4b8d-a462-28a205796e41
+TCGA-44-A4SS	2012	NA	415	NA	not hispanic or latino	male	NA	90	stage ia	m0	n0	t1b	white	no	NA	lung	0	1952	73	TCGA	LUAD	1	8	8	8	8	f934ed41-090e-4313-bbc5-d1a4a9ed9ad7
+TCGA-05-4250	2007	121	NA	NA	NA	female	NA	47	stage iiia	m0	n1	t3	NA	NA	r2	lung	1	NA	79	TCGA	LUAD	1	8	8	8	8	f98ecd8a-b878-4f53-b911-20cd8e17281c
+TCGA-75-7030	NA	NA	NA	NA	NA	male	NA	NA	stage iib	m0	n0	t3	NA	no	r0	lung	0	NA	NA	TCGA	LUAD	1	9	8	9	8	df576520-a6b6-4c9b-8d06-3f59cc5342fd
+TCGA-62-A46S	2007	1653	NA	NA	not hispanic or latino	male	100	40	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	73	TCGA	LUAD	1	8	7	8	6	e00a60d7-4253-443d-a187-680ad0931349
+TCGA-86-A4JF	2012	737	NA	NA	not hispanic or latino	male	20	NA	stage iib	m0	n0	t3	white	no	r0	lung	1	NA	56	TCGA	LUAD	1	8	8	8	8	e01e4fb3-236a-4d16-9073-555876b688e9
+TCGA-50-5044	2002	624	NA	NA	not hispanic or latino	female	NA	NA	stage iiib	m0	n1	t4	white	yes	NA	lung	1	NA	72	TCGA	LUAD	1	9	9	9	8	fa0c7392-d485-41ac-bf7e-244a528209ae
+TCGA-95-8494	2012	NA	84	NA	not hispanic or latino	male	NA	NA	stage iia	m0	n1	t2a	white	no	NA	lung	0	NA	67	TCGA	LUAD	1	8	7	7	7	6ee9caec-65ac-46db-9426-ffaa31967ae2
+TCGA-MP-A4T9	2006	1265	NA	NA	not hispanic or latino	female	NA	24	stage iiia	mx	n2	t2	white	yes	rx	lung	1	1980	54	TCGA	LUAD	1	7	7	7	7	70081320-540f-41d2-8687-ee6d011f8eb0
+TCGA-MP-A4SV	2001	2620	NA	NA	NA	male	NA	110	stage ib	m0	n0	t2	NA	no	r0	lung	1	1946	67	TCGA	LUAD	1	8	8	8	8	706420c4-8820-4b41-80d9-f3efd1d2a4f0
+TCGA-64-1676	2005	NA	1728	NA	not hispanic or latino	male	NA	60	stage ia	m0	n0	t1a	white	no	r0	lung	0	NA	58	TCGA	LUAD	1	8	8	8	8	fb6b289c-aaf9-4d8e-b6e0-5d35bce1b6e1
+TCGA-05-5715	2010	NA	62	NA	NA	female	NA	NA	stage ib	m0	n0	t2a	NA	NA	r0	lung	0	NA	69	TCGA	LUAD	1	7	6	7	5	e0a19099-5d25-40df-ad73-6260df3a1b32
+TCGA-95-7947	2011	NA	477	NA	not hispanic or latino	male	NA	100	stage ia	m0	n0	t1a	white	no	r0	lung	0	1956	67	TCGA	LUAD	1	9	8	8	8	e0acafdd-06d0-48a6-bd68-577ef666a419
+TCGA-50-6593	2008	336	NA	NA	not hispanic or latino	female	NA	NA	stage iiia	m0	n2	t1	white	yes	r0	lung	1	NA	49	TCGA	LUAD	1	7	7	7	6	e10568fe-0436-43f2-9f0f-48f9903868c4
+TCGA-44-2666	2009	97	NA	97	hispanic or latino	male	NA	30	stage ib	m0	n0	t2	white	no	r0	lung	1	1979	43	TCGA	LUAD	1	9	8	8	7	e16ca88f-488b-40f0-9169-e5a62482a2ff
+TCGA-93-A4JQ	2012	NA	526	NA	not hispanic or latino	male	NA	NA	stage ia	mx	n0	t1b	white	no	rx	lung	0	1973	49	TCGA	LUAD	1	8	8	8	8	7093024b-cf56-4783-b973-b72573ed7f2b
+TCGA-44-3917	2009	NA	1183	NA	not hispanic or latino	female	100	16	stage ib	m0	n0	t2	white	no	r0	lung	0	1993	33	TCGA	LUAD	0	NA	NA	NA	NA	7099597a-b208-45b5-b9e0-11ab40d5e497
+TCGA-05-4402	2007	244	NA	NA	NA	female	NA	NA	stage iv	m1	nx	t2	NA	no	r2	lung	1	NA	57	TCGA	LUAD	1	8	6	7	6	722d6818-f1cb-49f4-b68a-fd0a31304681
+TCGA-44-2665	2009	NA	1301	NA	not hispanic or latino	female	NA	NA	stage iib	m0	n1	t2	white	no	r0	lung	0	NA	55	TCGA	LUAD	1	7	7	7	7	fb79c491-7b01-42ae-8369-8364e442e31b
+TCGA-78-7155	2005	1171	NA	NA	NA	male	NA	48	stage ib	m0	n0	t2	white	NA	r0	lung	1	1957	68	TCGA	LUAD	1	6	5	5	4	fc79086c-af9a-4c27-b074-f7050b6f3381
+TCGA-97-7937	2011	NA	564	NA	not hispanic or latino	male	NA	35	stage ib	mx	n0	t2a	white	no	NA	lung	0	NA	65	TCGA	LUAD	1	7	5	6	5	fcfe0b53-dfc1-42fa-9efc-2b2ff259297e
+TCGA-64-5774	2004	NA	2676	NA	not hispanic or latino	male	NA	45	stage ib	m0	n0	t2	white	no	r0	lung	0	1959	60	TCGA	LUAD	1	7	6	7	6	fd3fc273-c035-40ea-a459-ff4806f5d592
+TCGA-78-7220	2000	807	NA	NA	NA	female	NA	35	stage iiia	m0	n2	t2	white	yes	r0	lung	1	1965	53	TCGA	LUAD	1	7	6	7	5	fd5c44ef-ea50-4fba-9e8d-e371cf34ebdb
+TCGA-17-Z030	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	fddc4d29-1ae8-451d-a13e-8ef6492be201
+TCGA-78-7167	2002	2681	NA	NA	NA	male	NA	64	stage iv	m1	n0	t2	white	no	r0	lung	1	1937	77	TCGA	LUAD	1	7	6	7	5	fe3eeeb6-0db4-46d7-a020-55604d474c12
+TCGA-62-8394	2008	139	NA	NA	not hispanic or latino	female	100	NA	stage iiib	m0	n2	t4	white	no	r0	lung	1	NA	65	TCGA	LUAD	1	9	8	9	8	742e0e32-25b5-4d41-8bf5-364b571cfd93
+TCGA-55-8204	2011	NA	515	NA	not hispanic or latino	female	NA	NA	stage ib	mx	n0	t2a	white	no	r0	lung	0	NA	87	TCGA	LUAD	1	7	7	7	6	75589307-f141-4d0d-b35d-adbbc77b3dec
+TCGA-MN-A4N1	2011	NA	827	NA	not hispanic or latino	male	100	NA	stage iia	m0	n1	t2a	black or african american	no	r0	lung	0	1967	60	TCGA	LUAD	1	7	6	7	5	75a0bb0b-6528-4fb8-a9e6-254905d21df4
+TCGA-50-5942	2009	NA	1847	NA	not hispanic or latino	female	NA	30	stage ia	m0	n0	t1	white	yes	r0	lung	0	NA	67	TCGA	LUAD	1	9	7	8	7	75dd635e-8e0c-4c0b-b21c-20f77770218d
+TCGA-05-4395	2006	0	NA	NA	NA	male	NA	NA	stage iiib	m0	n2	t4	NA	NA	r0	lung	1	NA	76	TCGA	LUAD	1	8	7	8	7	762dea8a-5b41-4058-979a-b7876ed13d7e
+TCGA-49-AAR4	2006	879	NA	NA	not hispanic or latino	male	80	35	stage iiia	mx	n2	t2	black or african american	yes	r0	lung	1	NA	51	TCGA	LUAD	1	8	8	8	8	765ad5a5-134b-4680-a6d4-1dd113dc47cc
+TCGA-55-8619	2012	NA	416	NA	not hispanic or latino	female	90	NA	stage iib	mx	n0	t3	white	no	r0	lung	0	NA	72	TCGA	LUAD	1	9	8	8	8	772324a5-5513-454d-ad6b-605798f69b73
+TCGA-69-7761	2011	NA	186	NA	not hispanic or latino	male	NA	20	stage ib	mx	n0	t2a	white	no	NA	lung	0	1955	84	TCGA	LUAD	1	9	9	9	9	77828a90-8e2a-4664-b674-d837e6e34fe4
+TCGA-73-7499	2010	1531	NA	NA	not hispanic or latino	female	40	NA	stage ib	m0	n0	t2a	white	no	r0	lung	1	NA	81	TCGA	LUAD	1	9	9	9	9	7782ceaa-da49-4232-8b3f-534971adaad8
+TCGA-55-7903	2011	NA	567	NA	not hispanic or latino	male	NA	40	stage ia	mx	n0	t1b	white	no	r0	lung	0	NA	64	TCGA	LUAD	1	8	7	7	7	77c4dbb2-eceb-4e0d-bcde-63dc817d5f35
+TCGA-55-8208	2012	NA	674	NA	not hispanic or latino	female	100	50	stage ia	m0	n0	t1b	white	no	r0	lung	0	NA	73	TCGA	LUAD	1	7	8	7	8	77f8c850-b4e6-46a1-ab12-a50e0044a0c8
+TCGA-78-8660	2005	321	NA	NA	NA	male	NA	11	stage iib	m0	n1	t2	NA	yes	r0	lung	1	1954	69	TCGA	LUAD	1	7	7	7	7	781f40c9-c099-4c96-8269-ebe2a449c93d
+TCGA-05-4427	2008	NA	791	NA	NA	female	NA	8	stage iib	m0	n1	t2	NA	no	r0	lung	0	1993	65	TCGA	LUAD	1	7	7	7	7	78a24c56-576c-4245-bb42-6603b3d19897
+TCGA-75-5122	NA	NA	NA	NA	NA	male	0	20	stage ib	m0	n0	t2	NA	no	r0	lung	1	NA	NA	TCGA	LUAD	1	8	9	8	9	78ae716b-0ca5-4c01-a053-d41288385fcd
+TCGA-62-A46U	2007	NA	2067	NA	not hispanic or latino	female	100	NA	stage iib	m0	n1	t2	white	no	r0	lung	0	NA	71	TCGA	LUAD	1	7	8	8	9	793649e5-f479-4d64-8723-2ef488fe0fd9
+TCGA-50-5933	2001	2393	NA	NA	not hispanic or latino	male	NA	NA	stage iiib	m0	n2	t4	white	yes	NA	lung	1	NA	72	TCGA	LUAD	1	6	7	6	7	7a0ea814-f0de-4bc4-a81a-daa000559369
+TCGA-MP-A4TH	2012	NA	741	NA	not hispanic or latino	female	NA	20	stage ia	m0	n0	t1a	white	no	r0	lung	0	1962	70	TCGA	LUAD	1	9	8	9	8	7a111b4f-46e9-4e34-8024-0b9fdc5cbcd8
+TCGA-78-7156	2006	976	NA	NA	NA	male	NA	84	stage iv	m1	n1	t4	white	no	r0	lung	1	1961	62	TCGA	LUAD	1	8	6	8	6	7b0622ab-63ea-483f-ae40-d3ea587bdbba
+TCGA-86-8669	2012	NA	938	NA	not hispanic or latino	male	100	47	stage ia	m0	n0	t1b	white	no	r0	lung	0	1965	64	TCGA	LUAD	1	8	7	8	7	7b89166e-c5b8-481b-aa70-495141499b91
+TCGA-44-A47A	2012	NA	466	NA	not hispanic or latino	female	NA	80	stage ib	mx	n0	t2a	white	no	r0	lung	0	1970	78	TCGA	LUAD	1	8	8	9	8	7b9479ff-23d6-4689-91f0-02efc94300f9
+TCGA-78-7539	2011	NA	791	NA	NA	female	NA	2.2	stage iia	m0	n0	t2b	white	no	r0	lung	0	1953	75	TCGA	LUAD	1	10	9	10	9	7be86a90-6da8-4c01-8a7a-bc5cfef9894f
+TCGA-NJ-A55R	2011	NA	603	NA	not hispanic or latino	male	NA	5	stage ia	mx	n0	t1b	white	no	NA	lung	0	NA	67	TCGA	LUAD	1	9	7	9	7	7c7d777b-bf00-4c24-97fc-922580d5605f
+TCGA-53-A4EZ	2012	NA	1071	NA	hispanic or latino	male	80	40	stage iia	mx	n1	t2a	white	yes	rx	lung	0	1956	63	TCGA	LUAD	1	9	8	9	7	7ca711ec-9ac0-4fa7-8a60-32ae84b8789a
+TCGA-55-6970	2004	464	NA	NA	NA	female	NA	NA	stage iiia	mx	n2	t2	white	yes	r1	lung	1	NA	67	TCGA	LUAD	1	8	8	8	7	7cce924f-12a1-4895-9866-5d4b1869dde6
+TCGA-69-7760	2011	NA	202	NA	not hispanic or latino	male	NA	NA	stage iib	m0	n0	t3	white	no	NA	lung	0	NA	73	TCGA	LUAD	1	8	6	7	6	8981f0c9-7155-4c96-bf77-7d40fe404323
+TCGA-44-6148	2011	NA	704	96	not hispanic or latino	male	NA	60	stage ia	m0	n0	t1b	white	no	rx	lung	0	1963	60	TCGA	LUAD	1	7	6	7	6	8994c8c4-9ea0-46cb-b4a5-0055d7da5bfa
+TCGA-64-1677	2005	628	NA	NA	not hispanic or latino	female	0	50	stage iiia	m0	n2	t2	white	no	r0	lung	1	1955	77	TCGA	LUAD	1	9	9	9	9	8a16ddb3-4861-4128-bed9-0b1f94fe8cf7
+TCGA-78-7159	2008	NA	1974	NA	NA	female	NA	21	stage ia	m0	nx	t1	white	no	r0	lung	0	1965	60	TCGA	LUAD	1	6	5	7	5	4d153600-81f9-44fb-b485-6355ec306d6a
+TCGA-55-8090	2011	598	NA	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t1a	white	no	r0	lung	1	NA	80	TCGA	LUAD	1	7	7	7	7	4d51ee44-e6f4-4bcb-be28-e9df54b39a8d
+TCGA-55-7227	2011	952	NA	NA	not hispanic or latino	male	NA	NA	stage iiia	mx	n1	t3	white	no	r0	lung	1	1953	77	TCGA	LUAD	1	8	8	8	8	4e7b2af4-b158-41a7-be22-bea227a759e6
+TCGA-86-8359	2012	444	NA	NA	not hispanic or latino	male	20	36	stage iiia	m0	n2	t3	white	NA	r0	lung	1	1982	52	TCGA	LUAD	1	7	6	7	6	7e7f089c-25f7-4e14-aed5-d741047b9e42
+TCGA-99-8032	2011	NA	44	NA	not hispanic or latino	male	NA	90	stage ia	m0	n0	t1a	white	no	r0	lung	0	1966	61	TCGA	LUAD	1	8	7	8	7	7e83f9dd-b038-497b-a113-a55605398b7b
+TCGA-50-7109	2011	308	NA	NA	not hispanic or latino	male	NA	120	stage ia	m0	n0	t1	white	no	NA	lung	1	NA	60	TCGA	LUAD	1	8	7	7	6	7eb540b4-8dd3-4382-a488-e48b1c7213b3
+TCGA-44-7667	2009	NA	1097	NA	not hispanic or latino	female	NA	50	stage iib	mx	n0	t3	white	no	NA	lung	0	1974	49	TCGA	LUAD	1	6	5	6	5	7f6455e8-fa3d-4452-acb2-8c9995073072
+TCGA-NJ-A4YG	2008	NA	2261	NA	NA	male	NA	104	stage ib	m0	n0	t2	white	no	NA	lung	0	1955	65	TCGA	LUAD	1	9	7	8	7	7fd03220-531e-4ef8-beca-e9703e8c0ae1
+TCGA-78-7145	2000	826	NA	NA	NA	female	NA	25	stage iv	m1	n1	t4	white	no	r1	lung	1	1973	52	TCGA	LUAD	1	7	6	6	5	4ef872e1-82c9-4939-9248-41ed9d3085b2
+TCGA-75-7031	NA	NA	NA	NA	NA	female	NA	5	stage ib	m0	n0	t2	NA	no	r0	lung	0	1965	NA	TCGA	LUAD	1	8	7	8	7	4efc2dac-6330-4b7a-a529-a27285f5fc23
+TCGA-78-7158	2007	179	NA	NA	NA	female	NA	14	stage iiib	m0	n2	t4	white	no	r1	lung	1	1963	59	TCGA	LUAD	1	9	7	8	7	501c987e-d1eb-48a9-89eb-72a5062c90b4
+TCGA-49-4507	1997	268	NA	NA	not hispanic or latino	female	NA	78	stage iiia	m0	n1	t3	white	yes	r0	lung	1	NA	73	TCGA	LUAD	1	9	8	9	8	50b2c647-aecd-4c81-af22-0d8116593552
+TCGA-NJ-A55O	2011	NA	13	NA	not hispanic or latino	female	NA	30	stage iia	m0	n1	t1b	white	no	NA	lung	0	NA	56	TCGA	LUAD	1	8	7	8	7	8ab8c4ba-311e-41d0-85ea-a0245aca1bdd
+TCGA-05-5420	2008	NA	457	NA	NA	male	NA	40	stage iiia	m0	n2	t2	NA	NA	r0	lung	0	1961	67	TCGA	LUAD	1	8	9	8	9	8b119d1c-6d21-4bbd-8a00-12da7b97d6c4
+TCGA-97-8174	2011	164	NA	NA	not hispanic or latino	male	NA	40	stage iia	m0	n0	t2b	white	no	NA	lung	1	1965	67	TCGA	LUAD	1	8	7	8	7	8c695c24-e7f9-449a-9258-a1bc8a33bf9a
+TCGA-MP-A4SY	2002	1501	NA	NA	not hispanic or latino	male	NA	40	stage iib	m0	n1	t2	white	no	r0	lung	1	NA	61	TCGA	LUAD	1	7	6	6	6	8cc6bcec-65df-46a9-a88c-09762a132857
+TCGA-55-8302	2012	NA	478	NA	NA	male	NA	59	stage ib	mx	n0	t2	white	no	r0	lung	0	1965	54	TCGA	LUAD	1	8	8	8	8	807cc7d2-6e3b-4f2d-9531-0da994eeeada
+TCGA-64-1679	2007	NA	2488	NA	not hispanic or latino	female	NA	40	stage iiia	m0	n2	t1	white	no	r0	lung	0	NA	58	TCGA	LUAD	1	7	6	6	5	81a0b2ff-a3d3-41bb-9ce6-765e6ae894af
+TCGA-55-6978	2010	176	NA	NA	not hispanic or latino	male	NA	NA	stage iia	mx	n0	t2b	white	no	NA	lung	1	NA	NA	TCGA	LUAD	1	7	8	7	8	5134c56f-8286-4ec8-8348-237cee7dad5e
+TCGA-49-AARO	2003	NA	3759	NA	not hispanic or latino	female	40	NA	stage ia	mx	n0	t1a	black or african american	yes	r0	lung	0	NA	39	TCGA	LUAD	1	7	7	7	7	5202458b-c38a-47c0-a0ba-5f1a59a762a0
+TCGA-38-7271	2006	800	NA	NA	not hispanic or latino	female	NA	25	stage ia	m0	n0	t1	white	no	r0	lung	1	1971	72	TCGA	LUAD	1	8	9	8	9	8214a0d1-5e2d-4a7a-acb1-e5580755db83
+TCGA-55-6971	2010	NA	1400	NA	NA	female	NA	60	stage ib	mx	n0	t2	white	no	r0	lung	0	1970	59	TCGA	LUAD	1	7	7	7	7	8d0736fe-261c-445c-bfd2-a3ea3ceaf367
+TCGA-55-8621	2012	NA	515	NA	not hispanic or latino	female	90	30	stage ia	mx	n0	t1a	white	no	r0	lung	0	1980	75	TCGA	LUAD	1	8	8	7	7	8d535aa6-6d59-4965-b5ed-17217d8f5930
+TCGA-86-A456	2012	NA	896	NA	not hispanic or latino	female	80	NA	stage ia	m0	n0	t1a	asian	no	r0	lung	0	1974	78	TCGA	LUAD	1	8	8	8	7	8e2aca86-7cba-4631-9f25-4d14219dbc6d
+TCGA-55-7573	2011	NA	487	NA	not hispanic or latino	female	90	NA	stage ia	mx	n0	t1b	white	no	NA	lung	0	NA	72	TCGA	LUAD	1	9	8	9	8	8e41153b-9faf-45c3-8397-8a428ef5c0d5
+TCGA-50-6595	2009	189	NA	NA	not hispanic or latino	female	NA	NA	stage iiia	m0	n2	t2	white	yes	NA	lung	1	NA	74	TCGA	LUAD	1	7	7	6	7	82476d2d-e403-4f6b-8dd6-cc84e3329478
+TCGA-86-A4D0	2012	116	NA	NA	not hispanic or latino	male	90	NA	stage iia	m0	n0	t2b	white	no	r0	lung	1	1983	48	TCGA	LUAD	1	7	6	7	6	528a0fce-0719-4b19-a69d-3f18681696c5
+TCGA-NJ-A4YQ	2011	NA	1432	NA	not hispanic or latino	female	NA	40	stage ia	m0	n0	t1b	white	no	rx	lung	0	NA	69	TCGA	LUAD	1	7	7	7	7	52df074f-a402-4b78-9472-f8eb268efded
+TCGA-86-7714	2011	625	NA	NA	not hispanic or latino	female	0	43	stage iiia	m0	n2	t1b	black or african american	no	r0	lung	1	1968	61	TCGA	LUAD	1	8	7	8	6	532c1852-76dd-489f-9380-36766d6e3c34
+TCGA-78-7143	1992	4961	NA	NA	NA	female	NA	NA	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	62	TCGA	LUAD	1	8	7	8	7	54254f5a-50e8-4150-a9b7-56a0470d2a56
+TCGA-91-8499	2011	NA	36	NA	not hispanic or latino	female	NA	90	stage ia	mx	n0	t1b	white	no	NA	lung	0	1945	76	TCGA	LUAD	1	8	7	7	7	54480f58-7e63-4aed-a116-c2c2252e8364
+TCGA-86-7953	2011	NA	997	NA	not hispanic or latino	female	90	NA	stage ia	m0	n0	t1b	white	no	rx	lung	0	NA	69	TCGA	LUAD	1	6	6	6	5	54775a66-08cc-4f38-98f2-e7b2b5cec994
+TCGA-55-7816	2011	468	NA	NA	not hispanic or latino	female	NA	NA	stage iv	mx	nx	tx	white	no	NA	lung	1	NA	49	TCGA	LUAD	1	7	7	7	7	548b0b68-ff45-4d45-adbe-984259e4a68b
+TCGA-55-6983	2005	NA	2823	NA	not hispanic or latino	male	NA	60	stage iib	m0	n1	t2	white	no	r0	lung	0	NA	NA	TCGA	LUAD	1	8	7	8	7	54a0e4d7-c274-4569-9c25-45bbe26d7f21
+TCGA-53-7624	2008	1043	NA	NA	hispanic or latino	female	0	50	stage iv	m1	n0	t2	white	no	r0	lung	1	1986	40	TCGA	LUAD	1	8	8	8	8	54a9cc9e-3eee-4caa-9f33-4ea64a2999ba
+TCGA-L9-A7SV	2013	NA	565	NA	not hispanic or latino	male	NA	93	stage iia	m0	n1	t2a	black or african american	no	r0	lung	0	1959	69	TCGA	LUAD	1	8	6	7	6	54e90433-5218-4d83-848f-f995ecba2a63
+TCGA-55-8620	2012	375	NA	NA	not hispanic or latino	male	70	154	stage iv	m1b	n1	t1a	white	yes	r0	lung	1	1965	60	TCGA	LUAD	1	8	7	8	7	5510ad32-62fd-4adc-964a-ae4e997c2f4b
+TCGA-69-8255	2011	NA	129	NA	hispanic or latino	male	NA	40	stage ia	m0	n0	t1a	white	no	NA	lung	0	1971	71	TCGA	LUAD	1	8	8	8	8	552712d3-da16-441e-ba93-11810793d598
+TCGA-62-A46Y	2008	414	NA	NA	not hispanic or latino	female	90	NA	stage iiia	m0	n2	t2	white	yes	r0	lung	1	NA	70	TCGA	LUAD	1	8	7	7	7	562a562b-ca03-44ac-b282-b51b457d8dae
+TCGA-97-A4M3	2012	NA	540	NA	not hispanic or latino	female	NA	37.5	stage ia	m0	n0	t1b	white	no	NA	lung	0	1959	69	TCGA	LUAD	1	8	6	7	6	575752f8-2788-43cd-afde-f0f600f39d18
+TCGA-49-AAR3	2008	NA	1893	NA	not hispanic or latino	male	100	NA	stage iib	mx	n1	t2	black or african american	no	r0	lung	0	NA	69	TCGA	LUAD	1	7	8	7	8	5813997a-d7dc-4f7c-8d4b-e979832168a9
+TCGA-75-6207	NA	NA	NA	NA	NA	male	NA	10	stage iiia	m0	n2	t2	NA	no	r0	lung	1	NA	NA	TCGA	LUAD	1	7	7	7	7	58babefe-7e81-4594-ba29-50d1de92a5ab
+TCGA-NJ-A4YF	2007	NA	2161	NA	not hispanic or latino	female	NA	30	stage ia	m0	n0	t1	black or african american	no	NA	lung	0	NA	50	TCGA	LUAD	1	7	5	6	5	595fc3ad-f603-421b-b130-52f1f617050b
+TCGA-91-6830	2002	NA	60	NA	not hispanic or latino	female	NA	12	stage iia	mx	n1	t1	white	no	NA	lung	0	1990	65	TCGA	LUAD	1	8	7	7	7	5a2f8140-8f90-4e94-b703-5fa5aa96be7b
+TCGA-78-7163	1992	NA	7248	NA	NA	male	NA	41	stage ib	m0	n0	t2	white	no	r0	lung	0	1950	60	TCGA	LUAD	1	9	8	8	7	5abd6651-69be-42f8-bdc0-308e68136d31
+TCGA-78-8648	2002	1209	NA	NA	NA	female	NA	45	stage iib	m0	n0	t3	NA	no	r0	lung	1	1971	58	TCGA	LUAD	1	8	8	8	8	5ace9608-d38a-42f2-a877-ec7c9d211808
+TCGA-55-6979	2006	237	NA	NA	NA	female	NA	NA	stage iib	m0	n1	t2	white	no	NA	lung	1	NA	59	TCGA	LUAD	1	7	8	7	8	5af499be-d2b9-4eaf-9a9f-435dccb51917
+TCGA-80-5608	NA	NA	2832	NA	NA	female	NA	26	stage ia	m0	n0	t1	NA	no	r0	lung	0	1972	NA	TCGA	LUAD	1	9	7	8	7	5c06d97f-2aaa-43de-b085-09d7829356ba
+TCGA-62-8395	2009	NA	1216	NA	not hispanic or latino	female	100	NA	stage iib	m0	n0	t3	white	no	r0	lung	0	NA	80	TCGA	LUAD	1	8	6	7	5	5c266025-e590-457c-af86-4c2dc9797267
+TCGA-35-5375	2010	NA	264	NA	not hispanic or latino	male	90	35	stage iiia	m0	n2	t2	white	NA	r0	lung	0	1971	61	TCGA	LUAD	1	8	7	7	7	5d2a9a4f-678d-4089-a8c5-81a5cb696629
+TCGA-44-6778	2007	NA	1864	NA	NA	male	NA	15	stage ia	mx	n0	t1	black or african american	no	NA	lung	0	1974	59	TCGA	LUAD	1	7	8	8	8	5d5cc436-6e57-4d23-a164-7f5153c2e666
+TCGA-86-8281	2011	NA	0	NA	not hispanic or latino	male	100	30	stage ia	m0	nx	t1	white	NA	NA	lung	0	1955	75	TCGA	LUAD	1	7	6	7	5	5d7ec32a-049f-4997-9882-1b3ac157e02d
+TCGA-MP-A4T6	2005	1790	NA	NA	not hispanic or latino	female	NA	50	stage iiia	mx	n2	t1	white	no	r0	lung	1	NA	76	TCGA	LUAD	1	8	7	8	7	5f4934be-eee3-40e1-8838-38103badc898
+TCGA-55-8085	2011	NA	904	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t1b	white	no	r0	lung	0	NA	64	TCGA	LUAD	1	9	9	9	9	5fd0f07b-8bb9-4378-bd26-28a26057e8fe
+TCGA-97-A4M5	2012	NA	634	NA	not hispanic or latino	male	NA	6	stage ia	m0	n0	t1b	white	no	NA	lung	0	1952	83	TCGA	LUAD	1	8	8	8	7	5fe77d4a-a8a5-4c90-8ff2-9c3bbbb309ef
+TCGA-97-7547	2007	NA	1965	NA	not hispanic or latino	female	NA	30	stage ib	mx	n0	t2	white	no	NA	lung	0	NA	67	TCGA	LUAD	1	8	7	7	6	6092bd5c-e97c-4a77-a4ad-c87623b17507
+TCGA-44-6145	2011	NA	595	NA	not hispanic or latino	female	NA	75	stage ia	m0	n0	t1	white	no	NA	lung	0	1963	62	TCGA	LUAD	1	8	9	8	9	6144d666-8f77-4efe-95f1-f9e5c4e5e056
+TCGA-49-4486	1992	2318	NA	NA	not hispanic or latino	male	60	17.5	stage ia	m0	n0	t1	white	no	r0	lung	1	1932	72	TCGA	LUAD	1	9	8	9	7	61c655ec-52b5-453f-a6cc-b2aba445b027
+TCGA-62-8399	2006	NA	2696	NA	not hispanic or latino	male	100	70	stage iiia	m0	n2	t2	white	no	r0	lung	0	NA	62	TCGA	LUAD	1	6	6	6	5	62380447-3b94-4e7c-823a-72dd7b4ccf3a
+TCGA-05-5429	2010	275	NA	NA	NA	male	NA	NA	stage iiia	m0	n2	t3	NA	NA	r0	lung	1	NA	60	TCGA	LUAD	1	9	8	9	7	63bd2175-4b7c-44c9-aef3-9efc8f79837b
+TCGA-80-5607	NA	NA	NA	NA	NA	female	NA	15	stage iib	m0	n1	t2	NA	no	r0	lung	0	1965	NA	TCGA	LUAD	1	9	8	9	8	645903b5-ba37-48a1-985b-a019b8db3236
+TCGA-86-A4P8	2012	NA	805	NA	not hispanic or latino	female	NA	NA	stage iiia	mx	n2	t1b	white	yes	NA	lung	0	NA	59	TCGA	LUAD	1	8	8	8	8	646910ee-5f5d-40ac-a21a-75790f89430a
+TCGA-91-8496	2011	NA	505	NA	not hispanic or latino	female	NA	NA	stage ib	mx	nx	t2a	white	no	NA	lung	0	NA	63	TCGA	LUAD	1	8	8	8	7	656a5eb4-e4a5-4d21-a800-3586f4d6588b
+TCGA-55-7281	2011	NA	872	NA	NA	female	NA	20	stage ia	m0	n0	t1b	white	no	r0	lung	0	NA	70	TCGA	LUAD	1	8	7	7	6	659668e8-f0d9-4ff2-bbc8-9246f2ef49ab
+TCGA-05-4424	2008	NA	913	NA	NA	male	NA	50	stage iib	m0	n0	t3	NA	yes	r1	lung	0	1957	70	TCGA	LUAD	1	7	6	7	6	66763a0c-6cda-4832-a0cc-e7b496d78eaa
+TCGA-44-3919	2010	1026	NA	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1	white	no	r0	lung	1	NA	71	TCGA	LUAD	1	8	8	8	8	66ed89f6-8ba2-49d0-af0f-4b6ebf2381bf
+TCGA-67-3772	2009	NA	573	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2	white	NA	NA	lung	0	NA	82	TCGA	LUAD	1	9	8	9	7	673493f6-975c-49e8-934c-001e9a0fff90
+TCGA-78-7537	2002	1622	NA	NA	NA	male	NA	20	stage ib	m0	n0	t2	NA	no	r0	lung	1	1944	72	TCGA	LUAD	1	9	8	9	7	67a2bc21-7c87-4678-997d-a434de672436
+TCGA-55-7994	2011	NA	603	NA	not hispanic or latino	male	NA	28	stage iib	mx	n0	t3	white	no	r0	lung	0	NA	81	TCGA	LUAD	1	8	9	8	9	67dbe286-edb3-4d07-8f74-9e5254f01945
+TCGA-69-A59K	2012	NA	591	NA	not hispanic or latino	female	NA	25	stage iib	m0	n0	t3	black or african american	no	NA	lung	0	1999	60	TCGA	LUAD	1	7	7	7	7	67fa3e41-c7c6-44c5-9e67-6bcb2715aacc
+TCGA-75-7025	NA	NA	3305	NA	NA	male	NA	NA	stage ib	m0	n0	t2	NA	no	r0	lung	0	1967	NA	TCGA	LUAD	1	9	7	8	7	681b1176-9676-44d3-892c-1d5dba1ce25b
+TCGA-55-8514	2012	NA	520	NA	not hispanic or latino	female	NA	20	stage ib	mx	n0	t2a	black or african american	no	r0	lung	0	1971	70	TCGA	LUAD	1	7	6	7	6	6845099a-b2c9-48d8-b856-9903d39bb92e
+TCGA-44-4112	2010	808	NA	141	not hispanic or latino	female	70	30	stage ib	m0	n0	t2a	white	no	r0	lung	1	1972	60	TCGA	LUAD	1	7	6	7	6	68b86559-38b2-41f2-b66e-c3c2b628b14d
+TCGA-55-8094	2012	NA	541	NA	not hispanic or latino	male	NA	70	stage iv	m1b	n0	t2b	white	yes	r0	lung	0	1976	51	TCGA	LUAD	1	8	7	8	6	69584d55-18f7-4786-b3cc-cd528500be44
+TCGA-05-4425	2008	NA	669	NA	NA	female	NA	28	stage iv	m1	n0	t2	NA	NA	r1	lung	0	NA	70	TCGA	LUAD	1	8	8	7	7	69b23036-add9-42c9-941f-02fb74d9b08c
+TCGA-55-7914	2011	187	NA	NA	not hispanic or latino	female	80	5	stage iia	mx	n1	t1b	white	no	r0	lung	1	1990	71	TCGA	LUAD	1	9	8	9	8	69dba721-a168-47a4-b7ff-80a448bad654
+TCGA-78-7147	2001	586	NA	NA	NA	female	NA	50	stage iib	m0	n1	t2	white	no	r0	lung	1	1950	67	TCGA	LUAD	1	9	8	9	7	e7d30bc2-42e8-49c5-a5b3-9f58411b007a
+TCGA-78-7148	2001	626	NA	NA	NA	male	NA	57	stage iib	m0	n1	t2	white	no	r0	lung	1	1944	71	TCGA	LUAD	1	9	8	8	7	e8060c45-451d-4779-9584-f284db47e63e
+TCGA-35-3615	2007	NA	14	NA	not hispanic or latino	male	NA	NA	stage ib	m0	n0	t2	white	NA	r0	lung	0	NA	57	TCGA	LUAD	1	8	7	8	7	e8b7a103-644f-4865-92f8-80b053bd5e17
+TCGA-78-7152	2003	1215	NA	NA	NA	male	NA	40	stage ib	m0	n0	t2	white	no	r0	lung	1	1959	65	TCGA	LUAD	1	9	8	9	8	b56dad1e-2fd5-47d8-9cc7-a54be9a1bae2
+TCGA-17-Z018	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	b5cdf68a-9903-4f82-9017-ab88d2b73d4f
+TCGA-49-4506	1997	999	NA	NA	not hispanic or latino	female	70	100	stage iib	m0	n1	t2	white	yes	r1	lung	1	NA	68	TCGA	LUAD	1	10	9	9	9	b61abdfd-b7a0-4e1a-b570-d1eaecad3a9e
+TCGA-MN-A4N4	2010	NA	1175	NA	not hispanic or latino	male	100	NA	stage ia	m0	n0	t1b	white	no	r0	lung	0	1980	57	TCGA	LUAD	1	8	7	8	6	ceead734-1ce0-4385-b65a-a9c853b7308e
+TCGA-17-Z023	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	cf411fc0-0cce-42d2-ae79-24de1a105c05
+TCGA-17-Z032	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	d020e685-0435-4b0a-b03f-45853e1c6eed
+TCGA-55-8091	2011	NA	600	NA	not hispanic or latino	male	NA	NA	stage ib	mx	n0	t2	white	no	r0	lung	0	NA	74	TCGA	LUAD	1	7	7	7	7	d12b6930-9ae4-4fe7-ad69-d183135c91ab
+TCGA-17-Z021	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	a56d2b48-375d-4193-91a9-f589c39523fb
+TCGA-69-7979	2011	NA	408	NA	not hispanic or latino	female	NA	28	stage ib	mx	n0	t2a	white	no	NA	lung	0	1955	71	TCGA	LUAD	1	7	6	6	5	a5bd7d50-9c14-49e6-89cf-6bf440c42309
+TCGA-17-Z019	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	a5d0c704-2888-4cff-805e-4bbe4636117c
+TCGA-L9-A743	2013	NA	664	NA	not hispanic or latino	male	NA	40.5	stage iia	m0	n1	t2a	black or african american	no	r0	lung	0	1986	56	TCGA	LUAD	1	8	8	8	8	a5f2576a-d628-47de-a5df-76a4f3105dcc
+TCGA-64-5815	2009	NA	866	NA	not hispanic or latino	male	NA	30	stage iib	m0	n1	t2	white	no	r0	lung	0	NA	74	TCGA	LUAD	1	7	6	7	6	a65700c2-e58c-4fd4-aeb1-5686b8f4d212
+TCGA-17-Z000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	e998a607-ac73-4849-afaa-57eee49cf051
+TCGA-91-A4BC	2012	NA	44	NA	not hispanic or latino	male	NA	30	stage iia	mx	n0	t2b	white	NA	NA	lung	0	1976	59	TCGA	LUAD	1	8	8	8	8	ea0b9461-0d4d-4ade-a255-1b03dd85e30e
+TCGA-05-4390	2005	NA	1126	NA	NA	female	NA	15	stage ib	m0	n0	t2	NA	no	r0	lung	0	1966	58	TCGA	LUAD	1	6	5	6	5	b8475929-2d9d-4909-bd62-59684a140bd7
+TCGA-44-7659	2010	NA	691	NA	not hispanic or latino	male	NA	40	stage ia	mx	n0	t1b	white	no	NA	lung	0	1989	70	TCGA	LUAD	1	9	7	8	7	b86b1616-20a2-4300-8daa-03dcc9938215
+TCGA-49-4514	2007	NA	1700	NA	NA	female	NA	65	stage ia	m0	n0	t1	white	no	r0	lung	0	NA	79	TCGA	LUAD	1	8	7	8	7	b87a5d92-4c09-48fe-bb08-b3c89a7c892e
+TCGA-55-A490	2012	99	NA	NA	not hispanic or latino	male	80	34	stage iia	mx	n0	t2b	white	no	r0	lung	1	1951	78	TCGA	LUAD	1	6	5	6	5	b89de053-d253-447f-952e-9a2edcf6bca5
+TCGA-05-4415	2008	91	NA	NA	NA	male	NA	29	stage iiib	m0	n2	t4	NA	no	r0	lung	1	1997	57	TCGA	LUAD	1	6	6	6	5	d15b7b29-c5c5-41d8-b83b-7cc12fe92820
+TCGA-73-7498	2010	NA	1189	NA	not hispanic or latino	female	100	28	stage ia	m0	n0	t1b	white	no	r0	lung	0	1969	58	TCGA	LUAD	1	8	7	7	6	ad74c0e8-8878-4efc-997d-981cd547bc5b
+TCGA-55-A494	2012	NA	481	NA	not hispanic or latino	female	80	7	stage ib	mx	n0	t2a	white	no	r0	lung	0	1967	61	TCGA	LUAD	1	7	6	6	5	adbaba9c-5efc-4130-82f6-8055eab13795
+TCGA-75-5147	NA	NA	1333	NA	NA	female	NA	NA	stage ib	m0	n0	t2	NA	no	r0	lung	0	NA	NA	TCGA	LUAD	1	9	8	9	8	d2824e6d-3784-45c2-9b0f-52b17356b5da
+TCGA-78-7154	2003	593	NA	NA	NA	male	NA	112.5	stage iiia	m0	n2	t3	white	NA	r0	lung	1	1948	72	TCGA	LUAD	1	8	7	8	6	d288b69f-1e79-4429-8646-9994b7c54f8f
+TCGA-05-4410	2007	NA	0	NA	NA	male	NA	98	stage ib	m0	n0	t2	NA	NA	rx	lung	0	1958	62	TCGA	LUAD	1	10	10	10	10	d28e465c-e553-4c53-8bb7-3d8199b9a8a5
+TCGA-05-4418	2008	274	NA	NA	NA	male	NA	25	stage iiia	m0	n2	t3	NA	NA	r0	lung	1	NA	69	TCGA	LUAD	1	8	8	8	8	d2c1e896-6886-4122-bb48-5fbcd3f641f4
+TCGA-44-7671	2010	NA	889	NA	not hispanic or latino	male	NA	NA	stage ib	m0	n0	t2a	black or african american	no	NA	lung	0	NA	64	TCGA	LUAD	1	8	6	7	5	ebb33753-9d38-4368-9033-3e55f129d00d
+TCGA-50-5932	2001	1235	NA	NA	not hispanic or latino	male	NA	NA	stage iib	m0	n1	t2	white	no	NA	lung	1	NA	75	TCGA	LUAD	1	9	7	8	7	ebcba7f2-ce13-4bae-97cd-91a6b1dcd465
+TCGA-NJ-A55A	2009	NA	15	NA	not hispanic or latino	female	NA	25	stage ib	m0	n0	t2	white	no	NA	lung	0	NA	76	TCGA	LUAD	1	8	7	8	7	b8b5ed35-b299-4c1e-9226-5ca055dc7a43
+TCGA-73-4675	2010	922	NA	NA	not hispanic or latino	male	NA	41	stage iiia	m0	n1	t3	white	no	rx	lung	1	1969	59	TCGA	LUAD	1	7	5	6	5	ae39e358-08d7-4367-ae68-82b469e791e4
+TCGA-95-7039	2011	NA	1272	NA	not hispanic or latino	female	NA	34	stage iib	mx	n0	t3	white	no	NA	lung	0	NA	54	TCGA	LUAD	1	8	7	7	7	ae702159-5b6a-41dd-868c-7540f9e1131c
+TCGA-05-4433	2008	NA	730	NA	NA	male	NA	1	stage ib	m0	n0	t2	NA	NA	r0	lung	0	1946	82	TCGA	LUAD	1	9	8	8	8	aea68827-dc0f-484d-a00d-06deeaa4b3ce
+TCGA-55-7727	2011	NA	119	NA	not hispanic or latino	male	NA	NA	stage iiia	mx	n2	t1a	white	no	r0	lung	0	NA	70	TCGA	LUAD	1	8	7	8	7	ba49117e-dab6-4e7d-bc44-f11dcafa1318
+TCGA-55-8508	2012	NA	617	NA	not hispanic or latino	female	60	NA	stage iia	mx	n1	t2a	black or african american	no	r0	lung	0	NA	60	TCGA	LUAD	1	8	7	8	7	bab335f9-b241-41a7-b107-79b9676b37b8
+TCGA-44-2668	2009	761	NA	NA	not hispanic or latino	male	NA	60	stage ib	m0	n0	t2	white	no	r0	lung	1	1979	51	TCGA	LUAD	1	7	8	8	8	bab43415-d413-40be-a4c0-2c40a52afe6a
+TCGA-55-1595	2004	NA	1479	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1	asian	no	NA	lung	0	1964	NA	TCGA	LUAD	1	8	7	7	7	d31aeefc-b59b-42e9-9919-750b17a70a3d
+TCGA-95-A4VK	2012	NA	651	NA	not hispanic or latino	female	NA	45	stage iiia	m0	n2	t2b	white	yes	rx	lung	0	1956	74	TCGA	LUAD	1	8	7	8	7	d344dae0-adf4-4697-b703-7690c13d8331
+TCGA-64-5775	2005	62	NA	NA	not hispanic or latino	male	0	110	stage iiia	m0	n0	t4	white	no	r0	lung	1	1950	71	TCGA	LUAD	1	6	7	6	6	c8544fb3-b26e-4672-bb81-a271db724b04
+TCGA-93-A4JN	2012	NA	718	NA	not hispanic or latino	male	90	40	stage iv	m1a	n0	t2a	white	no	rx	lung	0	1971	71	TCGA	LUAD	1	9	8	8	8	9dda72ec-1698-44e2-b35c-11e9a2704380
+TCGA-95-A4VP	2012	NA	605	NA	NA	female	NA	20	stage iiia	m0	n2	t2b	white	no	NA	lung	0	1972	66	TCGA	LUAD	1	8	7	8	8	9e22a3af-7f28-4757-8684-ed64a2a27ad1
+TCGA-86-A4P7	2012	NA	415	NA	not hispanic or latino	female	100	NA	stage ib	m0	n0	t2a	white	no	r0	lung	0	NA	63	TCGA	LUAD	1	8	7	8	7	9e640ff7-996e-427b-b56c-519a1e23baab
+TCGA-50-5045	2004	2174	NA	NA	not hispanic or latino	female	NA	NA	NA	m0	n1	t2	black or african american	yes	NA	lung	1	NA	57	TCGA	LUAD	1	8	8	8	8	9ee20c0d-a1c3-47f3-abda-131b3f190f52
+TCGA-99-AA5R	2013	NA	658	NA	not hispanic or latino	female	NA	46	stage ia	m0	n0	t1a	black or african american	no	r0	lung	0	1967	70	TCGA	LUAD	1	8	8	9	9	d3e23815-7f9d-48aa-9aef-3a1dd9d464d7
+TCGA-53-7626	2008	929	NA	NA	not hispanic or latino	female	NA	35	stage iia	m0	n1	t1	white	no	r0	lung	1	1971	76	TCGA	LUAD	1	8	8	8	8	d3ff328c-2488-47bd-8663-366b6812c7b5
+TCGA-50-8457	2011	NA	1125	NA	not hispanic or latino	female	NA	30	stage ia	m0	n0	t1a	black or african american	no	NA	lung	0	NA	63	TCGA	LUAD	1	9	8	9	8	d45aee46-838e-44af-8422-46710b3240a8
+TCGA-38-6178	2010	NA	448	NA	not hispanic or latino	female	NA	NA	stage iiia	NA	n2	t2b	white	no	r1	lung	0	NA	70	TCGA	LUAD	1	8	7	8	7	edf80622-aea2-4b50-bb69-691d6708aa83
+TCGA-69-8453	2012	NA	813	NA	not hispanic or latino	male	NA	12	stage iib	mx	n0	t3	white	no	NA	lung	0	NA	77	TCGA	LUAD	1	8	7	8	7	9f4f2ff3-3c02-4281-a398-b0d0955e58eb
+TCGA-05-4396	2006	303	NA	NA	NA	male	NA	19	stage iiib	m0	n1	t4	NA	NA	r0	lung	1	1947	76	TCGA	LUAD	1	10	8	9	8	9f81c602-8afa-4588-b0b6-6e5a1a128d5a
+TCGA-50-5051	2007	478	NA	NA	not hispanic or latino	female	NA	30	stage iiia	m0	n2	t2	white	yes	r0	lung	1	NA	42	TCGA	LUAD	1	8	6	7	6	e1c55bac-bb41-4964-add5-ecd6ba04b58d
+TCGA-J2-A4AG	2012	NA	988	NA	not hispanic or latino	female	NA	25	stage ia	mx	n0	t1b	white	no	r0	lung	0	1956	66	TCGA	LUAD	1	8	7	8	7	e21e2af3-dc71-41fa-94ba-7a7929f47d90
+TCGA-55-8087	2011	NA	462	NA	not hispanic or latino	female	NA	NA	stage ib	mx	n0	t2a	white	no	r0	lung	0	NA	59	TCGA	LUAD	1	6	5	6	4	e254aaeb-012c-4d92-8a03-cce1f6a2bcd6
+TCGA-97-A4LX	2012	NA	614	NA	not hispanic or latino	male	NA	120	stage ib	m0	n0	t2a	white	no	NA	lung	0	1945	81	TCGA	LUAD	1	8	8	8	8	e2b0d873-4942-4483-9a88-d5c6338d0382
+TCGA-67-3770	2009	NA	610	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1	white	NA	r0	lung	0	NA	70	TCGA	LUAD	1	9	8	9	8	eeab558b-8d1e-4843-861d-dbfb06061758
+TCGA-93-7347	2011	NA	683	NA	not hispanic or latino	female	100	11	stage ia	mx	n0	t1a	white	no	r0	lung	0	1952	76	TCGA	LUAD	1	8	8	8	8	ef03654a-dcf1-41ff-a67e-4f3fbf9ba807
+TCGA-93-8067	2011	NA	186	NA	not hispanic or latino	male	80	20	stage ib	mx	n0	t2a	asian	no	rx	lung	0	1961	77	TCGA	LUAD	1	8	7	8	7	bbe88801-34f3-46d2-bbfd-b46c3901ed71
+TCGA-86-8673	2011	NA	862	NA	not hispanic or latino	male	NA	54	stage ib	m0	n0	t2	white	no	r0	lung	0	1968	61	TCGA	LUAD	1	7	6	7	6	bc4c4079-b449-485d-84e4-a40496e563e8
+TCGA-MP-A4T2	2003	1136	NA	NA	not hispanic or latino	male	NA	75	stage ia	m0	n0	t1	white	no	r0	lung	1	1951	71	TCGA	LUAD	0	NA	NA	NA	NA	e379cf55-68ef-4fbc-af3e-0a5040c27f0f
+TCGA-17-Z001	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	aebd0313-23be-46a8-abc6-b16c531c3a8e
+TCGA-69-7980	2011	NA	411	NA	not hispanic or latino	female	NA	80	stage i	m0	n0	t1b	white	no	NA	lung	0	NA	70	TCGA	LUAD	1	8	8	8	8	aee86a89-0377-4080-b16c-408bfbe78687
+TCGA-69-7765	2011	NA	165	NA	not hispanic or latino	male	NA	NA	NA	mx	n0	t4	black or african american	no	NA	lung	0	1981	56	TCGA	LUAD	1	8	7	8	7	bcf2e591-9dae-440f-bd03-5f27c57db741
+TCGA-49-4487	1992	855	NA	NA	not hispanic or latino	female	NA	40	stage ia	m0	n0	t1	white	yes	r0	lung	1	NA	72	TCGA	LUAD	1	8	8	8	8	bd4e9a9f-17f3-4d33-92fc-fcc45dd0e7b4
+TCGA-91-6840	2011	NA	372	NA	not hispanic or latino	female	NA	50	stage ia	m0	n0	t1b	white	no	r0	lung	0	1971	59	TCGA	LUAD	1	9	8	8	7	d5326429-9805-47f9-97b0-fbda658e3f01
+TCGA-55-8097	2012	NA	476	NA	not hispanic or latino	female	NA	35	stage ia	mx	n0	t1a	white	no	r0	lung	0	1973	60	TCGA	LUAD	1	8	7	8	6	afe83af5-af22-49c0-88b4-f1d0dfcbe238
+TCGA-50-5946	2010	NA	1617	NA	NA	male	NA	NA	stage ia	mx	n0	t1	white	no	NA	lung	0	NA	62	TCGA	LUAD	1	7	6	7	5	c95957a7-1a1a-4c8d-bb61-7c99b500f224
+TCGA-55-7913	2011	561	NA	NA	not hispanic or latino	female	90	40	stage ia	mx	n0	t1b	black or african american	no	r0	lung	1	1971	61	TCGA	LUAD	1	8	6	7	6	c9c533ee-e154-4a56-bce9-b5af37574b2f
+TCGA-55-8507	2012	NA	418	NA	not hispanic or latino	male	40	120	stage ia	mx	n0	t1a	white	no	r0	lung	0	1972	53	TCGA	LUAD	1	7	6	7	5	d63c028b-b6d3-49ce-b63e-261eed3b86df
+TCGA-50-5936	2007	257	NA	NA	not hispanic or latino	male	NA	NA	stage iiia	m0	n2	t2	white	no	NA	lung	1	NA	58	TCGA	LUAD	1	7	6	6	5	ef42ae4c-a108-468e-beed-437cf3cf2962
+TCGA-55-7725	2011	NA	442	NA	not hispanic or latino	female	100	16	stage ia	mx	n0	t1a	white	no	r0	lung	0	1963	68	TCGA	LUAD	1	8	8	8	8	9fcdccae-676e-4071-93c3-23d2d3ab0c00
+TCGA-55-6975	2004	118	NA	NA	not hispanic or latino	male	NA	NA	stage iib	m0	n1	t2	white	no	NA	lung	1	NA	NA	TCGA	LUAD	1	8	7	7	6	a046888c-f153-4f35-a1b6-23dd1691a91a
+TCGA-55-6984	2006	760	NA	NA	not hispanic or latino	female	NA	NA	stage iib	m0	n1	t2	white	no	NA	lung	1	NA	NA	TCGA	LUAD	1	9	8	8	7	f063ddbb-1668-40df-9ec2-b0a23ca2c389
+TCGA-MP-A4TE	2010	896	NA	NA	not hispanic or latino	male	NA	40	stage iia	mx	n0	t2b	white	no	rx	lung	1	1970	56	TCGA	LUAD	1	7	6	7	5	bebd0025-74e2-451b-93b3-86f82df43573
+TCGA-78-7150	2002	666	NA	NA	NA	male	NA	37	stage iib	m0	n1	t2	white	no	r0	lung	1	1963	59	TCGA	LUAD	1	8	6	7	6	a0e57b39-960e-4e46-8aa0-d0ee2fd9a7cc
+TCGA-17-Z033	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	a16d7bf7-07b7-4320-969c-fc68dd564a92
+TCGA-55-A493	2012	NA	28	NA	not hispanic or latino	female	NA	53	stage ib	m0	n0	t2a	white	NA	r0	lung	0	1977	54	TCGA	LUAD	1	6	7	6	7	e43a2b72-35c6-4466-9007-ce96caf77ea8
+TCGA-17-Z022	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	e44e279b-103e-436e-8988-1139b000bdfd
+TCGA-62-A472	2011	NA	910	NA	not hispanic or latino	male	80	60	stage iib	m0	n0	t3	white	no	r0	lung	0	NA	70	TCGA	LUAD	1	7	7	7	7	e499069b-a16a-49e9-941a-e3e9ea62af25
+TCGA-44-2659	2009	NA	1367	NA	not hispanic or latino	female	NA	57	stage iib	m0	n1	t1	white	no	r0	lung	0	1965	65	TCGA	LUAD	1	10	9	9	9	bf15f7ad-9d92-473b-91d1-f24aa373ab97
+TCGA-44-A4SU	2012	409	NA	NA	not hispanic or latino	female	NA	50	stage ia	mx	n0	t1a	white	no	r0	lung	1	1961	67	TCGA	LUAD	1	8	7	8	7	bf34664d-423d-4257-99d4-797f7d366455
+TCGA-55-7907	2011	343	NA	NA	not hispanic or latino	male	NA	80	stage iia	mx	n1	t2a	white	no	r0	lung	1	1954	77	TCGA	LUAD	1	7	7	7	7	bf755bc2-b7aa-4c3c-8b3c-58b089b5cab6
+TCGA-17-Z049	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	d6a08727-affd-4a59-837b-ea71741d7f09
+TCGA-55-6969	2004	NA	1239	NA	NA	male	NA	NA	stage ib	m0	n0	t2	white	NA	NA	lung	0	NA	52	TCGA	LUAD	1	8	7	7	7	d6e274a0-6425-437b-bc07-1225be7808d5
+TCGA-38-4627	2003	1147	NA	NA	not hispanic or latino	female	NA	NA	stage iia	m0	n1	t1b	white	no	r0	lung	1	NA	64	TCGA	LUAD	1	8	7	7	6	d717fa33-3c91-4ced-89c6-79ff5542f04c
+TCGA-49-4488	1992	869	NA	NA	not hispanic or latino	female	NA	NA	stage ia	mx	n0	t1	white	no	r0	lung	1	NA	74	TCGA	LUAD	1	9	8	8	8	d721bfe0-90e3-415e-b9f3-1a270efa5fbb
+TCGA-80-5611	NA	NA	2595	NA	NA	male	NA	60	stage ib	m0	n0	t2	NA	no	r0	lung	0	NA	NA	TCGA	LUAD	1	7	6	7	6	e51f717f-72e8-400e-9f35-fc5dc32fdf71
+TCGA-62-A46O	2006	1454	NA	NA	not hispanic or latino	female	100	48	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	65	TCGA	LUAD	1	7	5	7	5	d7ae8efb-aa4d-4807-9772-55b0a28ccd5c
+TCGA-69-8254	2012	NA	409	NA	not hispanic or latino	male	80	40	NA	NA	NA	t2b	white	no	NA	lung	0	NA	85	TCGA	LUAD	1	8	8	8	7	f0c94f68-bfd9-45cb-b4fd-8bb1ae4e9a2b
+TCGA-73-4668	2009	NA	467	NA	not hispanic or latino	female	90	55	stage iib	m0	n1	t2	american indian or alaska native	no	r0	lung	0	1968	66	TCGA	LUAD	1	8	7	8	7	b2285924-9813-4f46-bb8f-91a0efd8a9b6
+TCGA-55-8207	2011	NA	977	NA	not hispanic or latino	male	NA	NA	stage ib	mx	n0	t2a	white	no	r0	lung	0	NA	73	TCGA	LUAD	1	7	6	7	6	b256e065-c681-4f82-8b68-a8ef7c413791
+TCGA-97-7941	2011	NA	484	NA	not hispanic or latino	female	NA	22.5	stage ia	mx	n0	t1b	white	no	r0	lung	0	1960	72	TCGA	LUAD	1	9	7	8	7	b266cbf5-80de-4473-b16f-08c502d365ca
+TCGA-55-7910	2011	NA	1040	NA	not hispanic or latino	female	80	15	stage iia	m0	n0	t2b	black or african american	no	r0	lung	0	1996	50	TCGA	LUAD	1	6	5	6	4	b2bc53d6-ef78-4ae9-a6b5-1c7cad9a43eb
+TCGA-17-Z002	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	b2c6939b-d8ec-4a07-8ea6-06c4553ee446
+TCGA-44-6779	2008	500	NA	NA	NA	female	NA	15	stage iib	mx	n1	t2	white	no	NA	lung	1	1978	50	TCGA	LUAD	1	8	9	8	8	cbbea9f1-396a-4bf3-b67c-2cac3394dceb
+TCGA-97-8172	2011	NA	545	NA	not hispanic or latino	female	NA	20	stage ib	m0	n0	t2a	white	no	NA	lung	0	1961	75	TCGA	LUAD	1	8	7	7	7	cbf1f718-6bb7-4daf-b9d6-fb294281decb
+TCGA-44-7661	2011	557	NA	NA	not hispanic or latino	female	NA	22	stage ib	m0	n0	t2a	white	no	NA	lung	1	1961	69	TCGA	LUAD	1	7	8	7	8	cbfef004-b437-4d51-9d88-a2db50aa6481
+TCGA-50-5055	2008	1830	NA	NA	not hispanic or latino	female	NA	NA	stage iia	m0	n1	t1	white	no	r0	lung	1	NA	79	TCGA	LUAD	1	9	9	9	9	cc3d9750-7ce0-489f-86d4-8017b7ebed29
+TCGA-38-4628	2002	1492	NA	NA	not hispanic or latino	female	NA	NA	stage iib	m0	n1	t2	white	no	r0	lung	1	NA	65	TCGA	LUAD	1	8	6	7	6	cc4bd56a-25c5-4c48-b583-ac3aeb778ca6
+TCGA-86-7713	2011	NA	1157	NA	not hispanic or latino	male	100	NA	stage iia	m0	n0	t2b	white	no	r0	lung	0	NA	70	TCGA	LUAD	1	6	5	6	4	cc68632c-b1e3-491b-b562-9468e2d1c101
+TCGA-44-2662	2009	NA	1280	NA	not hispanic or latino	male	NA	56	stage ib	m0	n0	t2	white	no	r0	lung	0	1956	65	TCGA	LUAD	1	5	5	5	5	ccda26c1-a6d6-4317-8cf8-8a87e15ce12e
+TCGA-67-6216	2010	NA	141	NA	not hispanic or latino	female	NA	NA	stage ia	m0	n0	t1a	white	no	r0	lung	0	NA	57	TCGA	LUAD	1	8	7	8	7	ccecce70-dd54-4c5b-bf9f-ca87d290cb00
+TCGA-17-Z013	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	a19d84a1-b316-44d3-90b1-0d14b0fd7a14
+TCGA-49-4512	2007	905	NA	NA	not hispanic or latino	female	NA	NA	stage iiia	mx	n2	t2	white	no	r1	lung	1	NA	69	TCGA	LUAD	1	7	6	7	5	a1e65587-24c1-4b41-92a7-4e1f15fffd78
+TCGA-55-8206	2012	NA	888	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t1b	white	no	r0	lung	0	NA	56	TCGA	LUAD	1	7	6	7	6	a214a959-3b21-4f25-a615-383cda7afdff
+TCGA-05-4417	2008	NA	455	NA	NA	female	NA	56	stage ib	m0	n0	t2	NA	no	r0	lung	0	1971	51	TCGA	LUAD	1	7	7	7	7	a244a99a-d7cc-4fb1-bc76-b66886481621
+TCGA-55-A491	2012	NA	626	NA	not hispanic or latino	female	80	45	stage ia	mx	n0	t1b	white	no	r0	lung	0	1952	81	TCGA	LUAD	1	7	7	7	7	a250a369-e536-4a18-b7af-2911133d7bdc
+TCGA-49-6743	2010	NA	1621	NA	NA	female	100	50	stage iiia	mx	n2	t1	white	no	NA	lung	0	NA	81	TCGA	LUAD	1	6	6	6	6	a391d49f-a822-460b-981c-6fbe1868ee38
+TCGA-55-6985	2004	NA	1233	NA	NA	female	NA	50	stage ib	mx	n0	t2	white	no	r0	lung	0	NA	58	TCGA	LUAD	1	8	7	8	7	e5cb0c86-8fe2-4cfc-b32b-e8ec3839ffc4
+TCGA-J2-A4AE	2012	NA	1079	NA	not hispanic or latino	female	NA	NA	stage ia	mx	n0	t1a	white	no	r0	lung	0	NA	77	TCGA	LUAD	1	10	9	10	9	e5f956dd-f49f-435c-83c3-5b1b0a2050ed
+TCGA-62-A470	2009	1194	NA	NA	not hispanic or latino	male	100	30	stage ib	m0	n0	t2	white	no	r0	lung	1	NA	84	TCGA	LUAD	1	7	5	6	5	e60a8f8a-0fe6-40e5-9f30-bcff48ac73f4
+TCGA-78-7542	1993	321	NA	NA	NA	male	NA	60	stage ib	m0	n0	t2	white	NA	r0	lung	1	1952	56	TCGA	LUAD	1	9	9	8	9	e64f76e4-f748-4d9e-ba71-53e2818a7920
+TCGA-55-6543	2010	NA	435	NA	NA	female	NA	60	stage ia	mx	n0	t1b	white	no	NA	lung	0	NA	NA	TCGA	LUAD	1	6	6	6	5	e68219b0-a9c2-49df-8f0d-db5ea97fd2dc
+TCGA-97-7938	2011	18	NA	NA	not hispanic or latino	female	NA	40	stage ia	mx	n0	t1a	white	no	r0	lung	1	NA	76	TCGA	LUAD	1	8	7	8	7	e6e75590-9520-4b1c-8a28-4a1d2b2218fc
+TCGA-05-4432	2008	NA	761	NA	NA	male	NA	58	stage iib	m0	n1	t2	NA	no	r0	lung	0	NA	66	TCGA	LUAD	1	8	7	7	7	e737f650-b72d-44e7-b750-558a56716803
+TCGA-55-8301	2012	NA	534	NA	not hispanic or latino	male	NA	100	stage ib	mx	n0	t2a	white	no	r0	lung	0	1962	58	TCGA	LUAD	1	8	9	8	9	b36b7567-30d3-4d0c-84c4-b203986e0fdb
+TCGA-78-7166	2002	258	NA	NA	NA	male	NA	38	stage iib	m0	n1	t2	white	yes	r0	lung	1	1934	84	TCGA	LUAD	1	9	8	8	7	b40d0849-f4ef-4a14-9732-9beb708cb46b
+TCGA-55-7283	2011	NA	609	NA	not hispanic or latino	female	100	5	stage iiia	mx	n2	t3	white	no	NA	lung	0	1950	76	TCGA	LUAD	1	9	8	8	7	ccfdad76-cc45-447f-bed8-ede8f6a8844d
+TCGA-73-4659	2006	711	NA	NA	not hispanic or latino	male	0	12	stage iiia	m0	n2	t2	white	no	r0	lung	1	1974	66	TCGA	LUAD	1	7	6	6	5	cd0dc947-b708-464e-beb7-954c9d4583e7
+TCGA-86-8073	2011	NA	740	NA	not hispanic or latino	male	100	40	stage ib	m0	n0	t2a	white	no	r0	lung	0	1970	58	TCGA	LUAD	1	8	6	7	6	cd902d08-215e-4bd0-88e4-4fd01ab43cbf
+TCGA-49-AARE	1999	1229	NA	NA	not hispanic or latino	female	90	15	stage ia	mx	n0	t1	black or african american	no	r0	lung	1	1980	51	TCGA	LUAD	1	7	6	7	6	cd9e70e4-8622-4a07-8646-63f8275c1737
+TCGA-05-4403	2006	NA	578	NA	NA	male	NA	NA	stage ib	m0	n0	t2	NA	NA	r0	lung	0	NA	76	TCGA	LUAD	1	9	8	8	7	ce15f31f-2bad-4485-96fa-495bfa262e66
+TCGA-05-4389	2005	NA	1369	NA	NA	male	NA	43	stage ia	m0	n0	t1	NA	no	r0	lung	0	NA	70	TCGA	LUAD	1	8	8	8	8	a3de401d-91fe-49a2-bb07-81c1a06506e6
+TCGA-86-7701	2011	NA	947	NA	not hispanic or latino	male	80	NA	stage iv	m1	n0	t2	white	no	r0	lung	0	NA	66	TCGA	LUAD	1	7	7	7	7	a3f6bc1c-19ab-4eeb-a9ac-3d2fac850bde
+TCGA-55-8513	2012	NA	791	NA	not hispanic or latino	female	60	NA	stage iib	mx	n0	t3	white	no	r0	lung	0	NA	77	TCGA	LUAD	1	8	7	7	6	a3fd20b2-e001-44ab-9716-754e5ae70808
+TCGA-55-1592	2005	701	NA	NA	not hispanic or latino	male	NA	NA	stage ia	m0	n0	t2	white	no	r0	lung	1	1957	NA	TCGA	LUAD	1	8	6	7	6	a41c46da-7ed4-4192-bd16-b3cbb94a5133
+TCGA-95-7948	2011	NA	476	NA	not hispanic or latino	female	NA	0.15	stage ib	m0	n0	t2a	white	no	r0	lung	0	1993	42	TCGA	LUAD	1	10	9	10	8	a52e99d6-a61a-439d-b0b1-ca7a0eabcb04
+TCGA-44-7660	2011	NA	592	NA	not hispanic or latino	male	70	124	stage ib	mx	n0	t2	white	no	NA	lung	0	1949	72	TCGA	LUAD	1	6	6	6	5	a534b96b-1665-444a-9308-e610f2f0e510
+TCGA-93-7348	2011	NA	531	NA	not hispanic or latino	female	100	42	stage ia	mx	n0	t1a	white	no	r0	lung	0	1957	75	TCGA	LUAD	1	8	6	8	6	e739b4f7-ae46-45c6-9013-9571cbadaf99
+TCGA-55-8616	2012	NA	48	NA	not hispanic or latino	female	NA	NA	stage ib	m0	n0	t2a	white	NA	r0	lung	0	NA	58	TCGA	LUAD	1	8	7	8	7	fe714ac0-f874-426a-924b-a2980232b5f7
+TCGA-55-7570	2011	NA	824	NA	not hispanic or latino	male	NA	NA	stage ia	mx	n0	t1a	black or african american	no	r0	lung	0	1971	60	TCGA	LUAD	1	7	5	7	6	ff07ea4b-4e50-410d-99d6-96a351dad7b1
+TCGA-78-7146	1999	173	NA	NA	NA	female	NA	6	stage iiia	m0	n2	t2	white	no	r0	lung	1	1988	71	TCGA	LUAD	1	6	6	6	6	ff9def3d-17e5-4ef6-b74e-933f11ed6f00
+TCGA-44-3398	2009	NA	1163	NA	not hispanic or latino	female	NA	60	stage ia	m0	n0	t1b	white	no	r0	lung	0	1959	77	TCGA	LUAD	1	7	7	7	7	ffb0c0b7-165e-4439-b3e6-62431f40b7fe
+TCGA-17-Z054	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	51e49548-1ad0-4c83-ae8a-2fa95bf4712a
+TCGA-17-Z042	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	56027785-fb10-492c-b021-ea9e3a1979db
+TCGA-17-Z020	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	5730b09c-a69f-425a-8af9-61172f9dfe56
+TCGA-17-Z052	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	61cd3ef8-eee4-4266-b01d-09338c89740a
+TCGA-17-Z045	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	62633a11-db23-481f-add3-853b2acac1bf
+TCGA-17-Z036	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	6313c7cb-5631-42b2-93e2-592f86e84551
+TCGA-17-Z010	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	654affac-f8ed-40bb-9f9f-a293227b06a6
+TCGA-17-Z044	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	67a2593d-b986-4f84-a51c-7f2fb12e54ad
+TCGA-17-Z048	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	67b5fb5d-2484-4aa5-aa7c-c6c5ecbc91b2
+TCGA-17-Z059	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	77bb204d-4e68-4c93-905f-9ef4c53b1ce2
+TCGA-17-Z057	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	79684460-f74c-4954-80fa-b418827bf2ef
+TCGA-17-Z017	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	81b71cff-da58-47cf-ad00-0a42489a7a0b
+TCGA-17-Z028	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	87eeaf49-3c02-402f-9ae4-3627391e7749
+TCGA-17-Z026	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TCGA	LUAD	0	NA	NA	NA	NA	8b3a111a-aa46-41b9-bbec-28f4290da939
